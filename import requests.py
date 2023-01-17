@@ -3,7 +3,7 @@ import json
 
 def search_google(query):
     unique_links = set()
-    query = 'https://www.googleapis.com/customsearch/v1?key=AIzaSyCNheU4QFa_Y-C_4ZFBnylG9Upp--EZ6EA&cx=913dd1a9015d64921&q=' + query
+    query = 'https://www.googleapis.com/customsearch/v1?key=MINHACHAVEAPI&cx=YOUR_CX&q=' + query
     response = requests.get(query)
     data = json.loads(response.text)
     for item in data['items']:
