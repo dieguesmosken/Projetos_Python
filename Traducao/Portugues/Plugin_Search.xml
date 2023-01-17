@@ -1,0 +1,146 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Procurar</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Rastrear utilitário de pesquisa.</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Qualquer subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>txArtist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>txTitle</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>txDuration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  <Settings>
+    <Key>txIntro</Key>
+    <Value>Introdução</Value>
+  </Settings>
+  <Settings>
+    <Key>txLastPlayed</Key>
+    <Value>última jogada</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zona</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRefresh</Key>
+    <Value>Atualização em tempo real</Value>
+  </Settings>
+  <Settings>
+    <Key>AlbumSearch</Key>
+    <Value>Pesquisa de Álbum</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripAddtoPlaylist</Key>
+    <Value>Adicionar à Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>AddToRequestsQueueToolStripMenuItem</Key>
+    <Value>Adicionar à fila de solicitações</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripEditTrack</Key>
+    <Value>Editar faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripDisableTrack</Key>
+    <Value>Desativar faixas selecionadas</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripDeleteTrack</Key>
+    <Value>Excluir faixas selecionadas</Value>
+  </Settings>
+  <Settings>
+    <Key>txDisableConfirmation</Key>
+    <Value>Você realmente deseja desativar as faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>txDeleteConfirmation</Key>
+    <Value>Você realmente deseja excluir as faixas selecionadas do banco de dados?</Value>
+  </Settings>
+  <Settings>
+    <Key>butSearchReset_tip</Key>
+    <Value>Limpar palavra-chave de pesquisa</Value>
+  </Settings>
+  <Settings>
+    <Key>butAdd_tip</Key>
+    <Value>Adicionar itens selecionados à lista</Value>
+  </Settings>
+  <Settings>
+    <Key>butSweeper_tip</Key>
+    <Value>Adicione itens selecionados à lista com o sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>butStart_tip</Key>
+    <Value>Primeira página</Value>
+  </Settings>
+  <Settings>
+    <Key>butPrevious_tip</Key>
+    <Value>Voltar</Value>
+  </Settings>
+  <Settings>
+    <Key>butNext_tip</Key>
+    <Value>Avançar</Value>
+  </Settings>
+  <Settings>
+    <Key>butEnd_tip</Key>
+    <Value>Última página</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>Pare o monitor</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>Jogar no monitor</Value>
+  </Settings>
+  <Settings>
+    <Key>butFFD_tip</Key>
+    <Value>Avanço rápido 10 segundos</Value>
+  </Settings>
+  <Settings>
+    <Key>txSearch_tip</Key>
+    <Value>Insira a palavra-chave de pesquisa</Value>
+  </Settings>
+  <Settings>
+    <Key>AdvancedFilters</Key>
+    <Value>Filtros Avançados</Value>
+  </Settings>
+  <Settings>
+    <Key>grFields</Key>
+    <Value>Configurações de Campos</Value>
+  </Settings>
+  <Settings>
+    <Key>txSearch_tip</Key>
+    <Value>Pesquisar por palavra-chave</Value>
+  </Settings>
+</NewDataSet>

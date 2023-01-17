@@ -1,0 +1,239 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Metadata Export</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Now Playing Info Exporter</Value>
+  </Settings>
+  <Settings>
+    <Key>grToFile</Key>
+    <Value>Export to file</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTargetFile</Key>
+    <Value>Target File</Value>
+  </Settings>
+  <Settings>
+    <Key>ckFile</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>grToWeb</Key>
+    <Value>Export to Web</Value>
+  </Settings>
+  <Settings>
+    <Key>lbURL</Key>
+    <Value>URL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Password</Value>
+  </Settings>
+  <Settings>
+    <Key>ckWeb</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>grSerial</Key>
+    <Value>Export to Serial</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTemplate</Key>
+    <Value>Template File</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSerialPort</Key>
+    <Value>Serial Port</Value>
+  </Settings>
+  <Settings>
+    <Key>lbBaud</Key>
+    <Value>Baud Rate</Value>
+  </Settings>
+  <Settings>
+    <Key>lbHandshake</Key>
+    <Value>Handshake</Value>
+  </Settings>
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>lbParity</Key>
+    <Value>Parity</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopBits</Key>
+    <Value>Stop Bits</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDataBits</Key>
+    <Value>Data Bits</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDtr</Key>
+    <Value>DTR Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRTS</Key>
+    <Value>RTS Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSerial</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  <Settings>
+    <Key>grCustomTitle</Key>
+    <Value>Custom Title</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitle</Key>
+    <Value>New Title (empty field for auto title)</Value>
+  </Settings>
+  <Settings>
+    <Key>butUpdateCustomTitle</Key>
+    <Value>Update Title</Value>
+  </Settings>
+  <Settings>
+    <Key>grEncoding</Key>
+    <Value>Text Encoding</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFileTemplate</Key>
+    <Value>Template File</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCustomPost</Key>
+    <Value>Custom Data</Value>
+  </Settings>
+  <Settings>
+    <Key>lbWebMethodExport</Key>
+    <Value>Export Method</Value>
+  </Settings>
+  <Settings>
+    <Key>ckActivateWebExport</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>grStreamServer</Key>
+    <Value>Streaming Server Options</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServer</Key>
+    <Value>URL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerUser</Key>
+    <Value>User</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerPassword</Key>
+    <Value>Password</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerType</Key>
+    <Value>Server Type</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStreamServerEnabled</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStreamServerActive</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>grNetwork</Key>
+    <Value>Network Export Options</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetIP</Key>
+    <Value>Address (IP)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetProtocol</Key>
+    <Value>Protocol</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetTemplate</Key>
+    <Value>Template File</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNtPort</Key>
+    <Value>Port</Value>
+  </Settings>
+  <Settings>
+    <Key>ckNetEnable</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>ckActivateNetworkExport</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>TabCustomTitle</Key>
+    <Value>Custom Title</Value>
+  </Settings>
+  <Settings>
+    <Key>TabFileExport</Key>
+    <Value>File</Value>
+  </Settings>
+  <Settings>
+    <Key>TabWebExport</Key>
+    <Value>Web</Value>
+  </Settings>
+  <Settings>
+    <Key>TabStreamServer</Key>
+    <Value>Streaming Server</Value>
+  </Settings>
+  <Settings>
+    <Key>TabNetwork</Key>
+    <Value>Network</Value>
+  </Settings>
+  <Settings>
+    <Key>TabSerialExport</Key>
+    <Value>Serial</Value>
+  </Settings>
+  <Settings>
+    <Key>TabFilters</Key>
+    <Value>Filters</Value>
+  </Settings>
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>Export Selected Types Only</Value>
+  </Settings>
+  <Settings>
+    <Key>StreamID</Key>
+    <Value>Stream ID</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInPartenerID</Key>
+    <Value>Partner ID</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInPartenerKey</Key>
+    <Value>Partner Key</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInID</Key>
+    <Value>ID</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamingServerCustomDta</Key>
+    <Value>Custom Data</Value>
+  </Settings>
+</NewDataSet>

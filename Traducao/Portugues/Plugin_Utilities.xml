@@ -1,0 +1,206 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Serviços de utilidade pública</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Utilitários de programa e banco de dados.</Value>
+  </Settings>
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>Operações</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptimize</Key>
+    <Value>OTIMIZAÇÃO DE BANCO DE DADOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butClearReports</Key>
+    <Value>APAGAR HISTÓRICO</Value>
+  </Settings>
+  <Settings>
+    <Key>butRelocate</Key>
+    <Value>RELOCAR TRILHAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butResetPriority</Key>
+    <Value>REDEFINIR PRIORIDADE</Value>
+  </Settings>
+  <Settings>
+    <Key>butResetPlaycounts</Key>
+    <Value>REINICIAR CONTA DE JOGOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butTags</Key>
+    <Value>SINCRONIZAÇÃO DE ETIQUETAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butVerifyTracks</Key>
+    <Value>VERIFICAR RASTREIOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butReports</Key>
+    <Value>RELATÓRIOS</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Perto</Value>
+  </Settings>
+  <Settings>
+    <Key>SuccessTitle</Key>
+    <Value>sucesso</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmação Necessária</Value>
+  </Settings>
+  <Settings>
+    <Key>OKOptimizeDB</Key>
+    <Value>O banco de dados foi otimizado com sucesso!</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearReportsConfirmation</Key>
+    <Value>Você realmente deseja limpar o histórico?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKClearReports</Key>
+    <Value>O histórico foi limpo com sucesso!</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityConfirmation</Key>
+    <Value>Você realmente deseja redefinir a prioridade para todas as faixas?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKResetPriority</Key>
+    <Value>A prioridade é definida como valor padrão para todas as faixas!</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlayCountConfirmation</Key>
+    <Value>Você realmente deseja redefinir a contagem de reprodução de todas as faixas?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKResetPlayCount</Key>
+    <Value>A contagem de reprodução foi redefinida para todas as faixas!</Value>
+  </Settings>
+  <Settings>
+    <Key>VerifyTitle</Key>
+    <Value>Verificar faixas</Value>
+  </Settings>
+  <Settings>
+    <Key>VerifyDescription</Key>
+    <Value>Verifique o Caminho da Trilha</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDelete</Key>
+    <Value>Exclua faixas inválidas!</Value>
+  </Settings>
+  <Settings>
+    <Key>butStart</Key>
+    <Value>Começar</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>RelocateTitle</Key>
+    <Value>Realocar arquivos</Value>
+  </Settings>
+  <Settings>
+    <Key>RelocateDescription</Key>
+    <Value>Realocar arquivos perdidos</Value>
+  </Settings>
+  <Settings>
+    <Key>grPath</Key>
+    <Value>Novo caminho</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCurentFile</Key>
+    <Value>Arquivo atual</Value>
+  </Settings>
+  <Settings>
+    <Key>lbItemsFound</Key>
+    <Value>Itens encontrados</Value>
+  </Settings>
+  <Settings>
+    <Key>txtFilesRelocated</Key>
+    <Value>arquivos perdidos.</Value>
+  </Settings>
+  <Settings>
+    <Key>TagsTitle</Key>
+    <Value>Sincronização de tags</Value>
+  </Settings>
+  <Settings>
+    <Key>TagsDescription</Key>
+    <Value>Sincronização de Tags</Value>
+  </Settings>
+  <Settings>
+    <Key>grFields</Key>
+    <Value>Campos de destino</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>ckTitle</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAlbum</Key>
+    <Value>Álbum</Value>
+  </Settings>
+  <Settings>
+    <Key>ckComposer</Key>
+    <Value>Compositor</Value>
+  </Settings>
+  <Settings>
+    <Key>ckCopyright</Key>
+    <Value>direito autoral</Value>
+  </Settings>
+  <Settings>
+    <Key>ckComments</Key>
+    <Value>Comentários</Value>
+  </Settings>
+  <Settings>
+    <Key>ckTrack</Key>
+    <Value>Track #</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDisc</Key>
+    <Value>Disc #</Value>
+  </Settings>
+  <Settings>
+    <Key>ckYear</Key>
+    <Value>Ano</Value>
+  </Settings>
+  <Settings>
+    <Key>ckBpm</Key>
+    <Value>BPM</Value>
+  </Settings>
+  <Settings>
+    <Key>ckCue</Key>
+    <Value>Dados CUE</Value>
+  </Settings>
+  <Settings>
+    <Key>butDB2Tag</Key>
+    <Value>Do banco de dados para TAGS</Value>
+  </Settings>
+  <Settings>
+    <Key>butTag2DB</Key>
+    <Value>De TAGS para banco de dados</Value>
+  </Settings>
+  <Settings>
+    <Key>butFixDuration</Key>
+    <Value>DURAÇÃO DOS ARQUIVOS DE ATUALIZAÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>butAssociatedArtists</Key>
+    <Value>ATUALIZAÇÃO ARTISTAS ASSOCIADOS</Value>
+  </Settings>
+</NewDataSet>

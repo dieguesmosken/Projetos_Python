@@ -1,0 +1,122 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Processamento de áudio</Value>
+  </Settings>
+  <Settings>
+    <Key>grEqualizer</Key>
+    <Value>Equalizador de 10 bandas</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEqualizer</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAgcPreset</Key>
+    <Value>Predefinição de controle de ganho automático (AGC)</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset0</Key>
+    <Value>Desabilitado</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset1</Key>
+    <Value>Duro</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset2</Key>
+    <Value>Médio</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset3</Key>
+    <Value>Suave</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCompressorPreset</Key>
+    <Value>Predefinição do Compressor de Som</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset0</Key>
+    <Value>Desabilitado</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset1</Key>
+    <Value>Predefinição</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset2</Key>
+    <Value>Duro</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset3</Key>
+    <Value>Difícil 2</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset4</Key>
+    <Value>Comercial Difícil</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset5</Key>
+    <Value>Médio</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset6</Key>
+    <Value>Suave</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset7</Key>
+    <Value>Suave 2</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>grCompressor</Key>
+    <Value>Compressor de áudio</Value>
+  </Settings>
+  <Settings>
+    <Key>grAGC</Key>
+    <Value>CAG</Value>
+  </Settings>
+  <Settings>
+    <Key>grVolume</Key>
+    <Value>Em Cadeia de Volume</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVolume</Key>
+    <Value>Volume</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMuteMax</Key>
+    <Value>0=mudo, 100=máx.</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCompByPreset</Key>
+    <Value>Por predefinição</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCompCustom</Key>
+    <Value>Valores personalizados</Value>
+  </Settings>
+  <Settings>
+    <Key>grStereoEnhancer</Key>
+    <Value>Melhorador estéreo</Value>
+  </Settings>
+  <Settings>
+    <Key>grStereoAmount</Key>
+    <Value>Nível</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStereoItem</Key>
+    <Value>1=Nível Original</Value>
+  </Settings>
+</NewDataSet>

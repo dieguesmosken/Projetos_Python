@@ -1,0 +1,147 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Search</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Track search utility.</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>txArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>txTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>txDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>txIntro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  <Settings>
+    <Key>txLastPlayed</Key>
+    <Value>Last Play</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zone</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRefresh</Key>
+    <Value>Realtime Refresh</Value>
+  </Settings>
+  <Settings>
+    <Key>AlbumSearch</Key>
+    <Value>Album Search</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripAddtoPlaylist</Key>
+    <Value>Add To Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>AddToRequestsQueueToolStripMenuItem</Key>
+    <Value>Add To Requests Queue</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripEditTrack</Key>
+    <Value>Edit Track</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripDisableTrack</Key>
+    <Value>Disable Selected Tracks</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripDeleteTrack</Key>
+    <Value>Delete Selected Tracks</Value>
+  </Settings>
+  <Settings>
+    <Key>txDisableConfirmation</Key>
+    <Value>Do you really want to disable the selected tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>txDeleteConfirmation</Key>
+    <Value>Do you really want to delete the selected tracks from the database?</Value>
+  </Settings>
+  <Settings>
+    <Key>butSearchReset_tip</Key>
+    <Value>Clear search keyword</Value>
+  </Settings>
+  <Settings>
+    <Key>butAdd_tip</Key>
+    <Value>Add selected items to the list</Value>
+  </Settings>
+  <Settings>
+    <Key>butSweeper_tip</Key>
+    <Value>Add selected items to the list with sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>butStart_tip</Key>
+    <Value>First Page</Value>
+  </Settings>
+  <Settings>
+    <Key>butPrevious_tip</Key>
+    <Value>Back</Value>
+  </Settings>
+  <Settings>
+    <Key>butNext_tip</Key>
+    <Value>Forward</Value>
+  </Settings>
+  <Settings>
+    <Key>butEnd_tip</Key>
+    <Value>Last Page</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>Stop the monitor</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>Play in monitor</Value>
+  </Settings>
+  <Settings>
+    <Key>butFFD_tip</Key>
+    <Value>Fast forward 10 seconds</Value>
+  </Settings>
+  <Settings>
+    <Key>txSearch_tip</Key>
+    <Value>Enter search keyword</Value>
+  </Settings>
+  <Settings>
+    <Key>AdvancedFilters</Key>
+    <Value>Advanced Filters</Value>
+  </Settings>
+  <Settings>
+    <Key>grFields</Key>
+    <Value>Fields Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>txSearch_tip</Key>
+    <Value>Search by keyword</Value>
+  </Settings>
+</NewDataSet>

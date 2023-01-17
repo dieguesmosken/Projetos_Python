@@ -1,0 +1,271 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Playlist Builder</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Build customized playlists.</Value>
+  </Settings>
+  <Settings>
+    <Key>SaveFormTitle</Key>
+    <Value>Save Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes</Key>
+    <Value>minutes</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewPlaylist</Key>
+    <Value>New Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplacePlaylist</Key>
+    <Value>Replace Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>rdDeletePlaylist</Key>
+    <Value>Delete Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SAVE</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCEL</Value>
+  </Settings>
+  <Settings>
+    <Key>OpenFormTitle</Key>
+    <Value>Open Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>rdPlaylists</Key>
+    <Value>Playlists</Value>
+  </Settings>
+  <Settings>
+    <Key>rdFromRotation</Key>
+    <Value>Playlist From Track Rotation</Value>
+  </Settings>
+  <Settings>
+    <Key>rdMainPlaylist</Key>
+    <Value>Main Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>OPEN</Value>
+  </Settings>
+  <Settings>
+    <Key>colTime</Key>
+    <Value>TIME</Value>
+  </Settings>
+  <Settings>
+    <Key>colArtist</Key>
+    <Value>ARTIST</Value>
+  </Settings>
+  <Settings>
+    <Key>colTitle</Key>
+    <Value>TITLE</Value>
+  </Settings>
+  <Settings>
+    <Key>colIntro</Key>
+    <Value>INTRO</Value>
+  </Settings>
+  <Settings>
+    <Key>colDuration</Key>
+    <Value>DURATION</Value>
+  </Settings>
+  <Settings>
+    <Key>colSW</Key>
+    <Value>SWEEPER</Value>
+  </Settings>
+  <Settings>
+    <Key>colVT</Key>
+    <Value>VT</Value>
+  </Settings>
+  <Settings>
+    <Key>colTrigger</Key>
+    <Value>TRIGGER</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoPlaylist</Key>
+    <Value>No Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoPlaylistMsg</Key>
+    <Value>Please select a playlist first!</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoRotation</Key>
+    <Value>No Track Rotation</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoRotationMsg</Key>
+    <Value>Please select a track rotation first!</Value>
+  </Settings>
+  <Settings>
+    <Key>txReplaceMsg</Key>
+    <Value>Do you really want to replace the selected playlist?</Value>
+  </Settings>
+  <Settings>
+    <Key>txDeleteMsg</Key>
+    <Value>Do you really want to delete the selected playlist?</Value>
+  </Settings>
+  <Settings>
+    <Key>txNewPlaylist</Key>
+    <Value>Do you really want to create a new playlist?</Value>
+  </Settings>
+  <Settings>
+    <Key>txPlaylistEmptyMsg</Key>
+    <Value>The playlist is empty!</Value>
+  </Settings>
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>START</Value>
+  </Settings>
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>INTRO</Value>
+  </Settings>
+  <Settings>
+    <Key>txtEnd</Key>
+    <Value>END</Value>
+  </Settings>
+  <Settings>
+    <Key>tsFile</Key>
+    <Value>File</Value>
+  </Settings>
+  <Settings>
+    <Key>tsNewPlaylist</Key>
+    <Value>New Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOpenPlaylist</Key>
+    <Value>Open Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSavePlaylist</Key>
+    <Value>Save Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsExportHtml</Key>
+    <Value>Export as HTML File</Value>
+  </Settings>
+  <Settings>
+    <Key>tsExit</Key>
+    <Value>Exit</Value>
+  </Settings>
+  <Settings>
+    <Key>tsEdit</Key>
+    <Value>Edit</Value>
+  </Settings>
+  <Settings>
+    <Key>tsShuffle</Key>
+    <Value>Shuffle Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsTempEdit</Key>
+    <Value>Temporary Edit</Value>
+  </Settings>
+  <Settings>
+    <Key>tsReload</Key>
+    <Value>Reload Track</Value>
+  </Settings>
+  <Settings>
+    <Key>tsAddToPlaylist</Key>
+    <Value>Add to Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsDeleteFromPlaylist</Key>
+    <Value>Delete from Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsClearPlaylist</Key>
+    <Value>Clear Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImport</Key>
+    <Value>Import</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImportFile</Key>
+    <Value>Import File</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImportFolder</Key>
+    <Value>Import Folder</Value>
+  </Settings>
+  <Settings>
+    <Key>rdM3u</Key>
+    <Value>.M3U Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Position</Value>
+  </Settings>
+  <Settings>
+    <Key>WarningTitle</Key>
+    <Value>Confirmation Needed</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteFromPlaylistConfirmation</Key>
+    <Value>Do you really want to delete the selected track from the playlist?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteFromDatabaseConfirmation</Key>
+    <Value>Do you really want to delete the selected track from the Database?</Value>
+  </Settings>
+  <Settings>
+    <Key>tsEvents</Key>
+    <Value>Events</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOrientation</Key>
+    <Value>Windows Orientation</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSidebySide</Key>
+    <Value>Horizontally</Value>
+  </Settings>
+  <Settings>
+    <Key>tsTopBottom</Key>
+    <Value>Vertically</Value>
+  </Settings>
+  <Settings>
+    <Key>tsAddEvent</Key>
+    <Value>Add Event</Value>
+  </Settings>
+  <Settings>
+    <Key>tlDelete2</Key>
+    <Value>Delete</Value>
+  </Settings>
+  <Settings>
+    <Key>GenerateFromRotationToolStripMenuItem</Key>
+    <Value>Generate Playlist From Rotation</Value>
+  </Settings>
+</NewDataSet>

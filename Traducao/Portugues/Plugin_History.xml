@@ -1,0 +1,86 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>História</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Mantém o histórico das faixas tocadas.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDatePlayed</Key>
+    <Value>Data do jogo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>Título</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbListeners</Key>
+    <Value>Ouvintes on-line:</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>HistoryOptions</Key>
+    <Value>Opções de Histórico</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zona de plugins</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnableDBHistory</Key>
+    <Value>Manter histórico</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbKeepHistory</Key>
+    <Value>Histórico de (dias)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbRows2Display</Key>
+    <Value>Linhas a serem exibidas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShowListeners</Key>
+    <Value>Mostrar contagem de ouvintes</Value>
+  </Settings>
+  
+</NewDataSet>

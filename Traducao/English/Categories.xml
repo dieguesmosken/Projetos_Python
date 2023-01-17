@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- TRANSLATION START --> 
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Categories Manager</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Category.Text</Key>
+    <Value>Categories</Value>
+  </Settings>
+  
+  <Settings><!-- 
+  # Insere sua chave API aqui
+api_key = 'AIzaSyAn43-htRSUgkX3DYafkFr8lknE5xjo924' -->
+    <Key>Group.Subcategory.Text</Key>
+    <Value>Sub Categories</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Genre.Text</Key>
+    <Value>Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Rename.Text</Key>
+    <Value>Rename</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Ok.Text</Key>
+    <Value>Ok</Value>
+  </Settings>
+  
+</NewDataSet>

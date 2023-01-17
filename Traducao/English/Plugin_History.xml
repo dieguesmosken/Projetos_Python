@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>History</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Keeps history of played tracks.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDatePlayed</Key>
+    <Value>Play Date</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbListeners</Key>
+    <Value>Online Listeners: </Value>
+  </Settings>
+  
+  <!-- Options --> 
+  
+  <Settings>
+    <Key>HistoryOptions</Key>
+    <Value>History Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnableDBHistory</Key>
+    <Value>Keep History</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbKeepHistory</Key>
+    <Value>History for (days)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbRows2Display</Key>
+    <Value>Rows to Display</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShowListeners</Key>
+    <Value>Show Listeners Count</Value>
+  </Settings>
+  
+</NewDataSet>

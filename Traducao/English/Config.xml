@@ -1,0 +1,623 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>tabGeneralSettings</Key>
+    <Value>General</Value>
+  </Settings>
+  <Settings>
+    <Key>grOtherSettings</Key>
+    <Value>Other Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOnTop</Key>
+    <Value>Always on Top</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSearchResults</Key>
+    <Value>Results to show</Value>
+  </Settings>
+  <Settings>
+    <Key>ckMinimize</Key>
+    <Value>Minimize to Tray</Value>
+  </Settings>
+  <Settings>
+    <Key>lbProgramPriority</Key>
+    <Value>Program Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRestart</Key>
+    <Value>Needs Restart</Value>
+  </Settings>
+  <Settings>
+    <Key>grLang</Key>
+    <Value>Language</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreferredLanguage</Key>
+    <Value>Default Language</Value>
+  </Settings>
+  <Settings>
+    <Key>grDbSettings</Key>
+    <Value>Database Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlServer</Key>
+    <Value>MySQL Server</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlUsername</Key>
+    <Value>MySQL User</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlPassword</Key>
+    <Value>MySQL Password</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMysqlDatabase</Key>
+    <Value>Database Name</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityBelowNormal</Key>
+    <Value>Below Normal</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityNormal</Key>
+    <Value>Normal</Value>
+  </Settings>
+  <Settings>
+    <Key>PriorityAboveNormal</Key>
+    <Value>Above Normal</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDateFormat</Key>
+    <Value>Date Format</Value>
+  </Settings>
+  <Settings>
+    <Key>tabSoundCards</Key>
+    <Value>Sound Devices</Value>
+  </Settings>
+  <Settings>
+    <Key>grSoundCards</Key>
+    <Value>Audio Output Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard</Key>
+    <Value>Main 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard2</Key>
+    <Value>Main 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard3</Key>
+    <Value>Main 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard4</Key>
+    <Value>Main 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard5</Key>
+    <Value>Main 5</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard6</Key>
+    <Value>Main 6</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard7</Key>
+    <Value>Main 7</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMainSoundCard8</Key>
+    <Value>Main 8</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSwSoundCard</Key>
+    <Value>Sweeper/VO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAuxSoundCard</Key>
+    <Value>AUX Players</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMonitorSoundCard</Key>
+    <Value>Monitoring (CUE)</Value>
+  </Settings>
+  <Settings>
+    <Key>grInputSound</Key>
+    <Value>Audio Input Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputCard</Key>
+    <Value>Input Sound Device</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputChannel</Key>
+    <Value>Input Channel</Value>
+  </Settings>
+  <Settings>
+    <Key>ckFade2Input</Key>
+    <Value>Fade down music when active</Value>
+  </Settings>
+  <Settings>
+    <Key>grMixing</Key>
+    <Value>Mixing Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlapDuration</Key>
+    <Value>Overlay Lenght</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlapInfo</Key>
+    <Value>milliseconds. (mix lenght)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>Fade out Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFadeoutInfo</Key>
+    <Value>milliseconds (on manual mix)</Value>
+  </Settings>
+  <Settings>
+    <Key>tabAutoDJ</Key>
+    <Value>Auto DJ</Value>
+  </Settings>
+  <Settings>
+    <Key>grAutoDJMain</Key>
+    <Value>Main Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAutoDJ</Key>
+    <Value>Enable on start-up</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAutoPlay</Key>
+    <Value>Auto Play on Start-up</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAutoPlayInfo</Key>
+    <Value>(only when Auto DJ is active)</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotationRules</Key>
+    <Value>Track Rotation Rules</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameSong</Key>
+    <Value>Don't play same track for</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes1</Key>
+    <Value>minutes.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameArtist</Key>
+    <Value>Don't play same artist for</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes2</Key>
+    <Value>minutes.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRulesWarning</Key>
+    <Value>Higher number of minutes requires a larger amount of imported tracks!</Value>
+  </Settings>
+  <Settings>
+    <Key>grSweeperSettings</Key>
+    <Value>Sweeper Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIfSongIntro</Key>
+    <Value>If intro is longer than</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIfSongIntroInfo</Key>
+    <Value>seconds, play sweeper on track start.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSetSongVol</Key>
+    <Value>Set song volume to</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSetSongVolInfo</Key>
+    <Value>when playing sweeper. (0=mute, 10=maximum)</Value>
+  </Settings>
+  <Settings>
+    <Key>grSilenceRemover</Key>
+    <Value>Silence Remover</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Start Threshold</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Mix Threshold</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>End Threshold</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartLevelDB</Key>
+    <Value>db</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndLevelDB</Key>
+    <Value>db</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSilenceRemover</Key>
+    <Value>Active</Value>
+  </Settings>
+  <Settings>
+    <Key>tabStreamTitles</Key>
+    <Value>Stream Titles</Value>
+  </Settings>
+  <Settings>
+    <Key>grRadioDetails</Key>
+    <Value>Radio Details</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStationName</Key>
+    <Value>Radio Station Name</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStationSlogan</Key>
+    <Value>Radio Station Slogan</Value>
+  </Settings>
+  <Settings>
+    <Key>grTitles</Key>
+    <Value>File Type Titles</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMusic</Key>
+    <Value>Music</Value>
+  </Settings>
+  <Settings>
+    <Key>lbJingle</Key>
+    <Value>Jingle</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVoiceOver</Key>
+    <Value>Voice Over</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCommercial</Key>
+    <Value>Commercials</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInternetStream</Key>
+    <Value>Internet Stream</Value>
+  </Settings>
+  <Settings>
+    <Key>lvVDF</Key>
+    <Value>VDF (Variable Duration File)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOthers</Key>
+    <Value>Others</Value>
+  </Settings>
+  <Settings>
+    <Key>grMisc</Key>
+    <Value>Others</Value>
+  </Settings>
+  <Settings>
+    <Key>ckShowInfo</Key>
+    <Value>Show Info Window</Value>
+  </Settings>
+  <Settings>
+    <Key>tabMisc</Key>
+    <Value>Other Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>grPriority</Key>
+    <Value>Tracks Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOnPlayReduce</Key>
+    <Value>On play, reduce priority by</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDefaultPriority</Key>
+    <Value>Default Priority</Value>
+  </Settings>
+  <Settings>
+    <Key>grMainButtons</Key>
+    <Value>Shortcut Buttons</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton1</Key>
+    <Value>Button 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton2</Key>
+    <Value>Button 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton3</Key>
+    <Value>Button 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton4</Key>
+    <Value>Button 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbButton5</Key>
+    <Value>Button 5</Value>
+  </Settings>
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>Plugins</Value>
+  </Settings>
+  <Settings>
+    <Key>butShow</Key>
+    <Value>Show</Value>
+  </Settings>
+  <Settings>
+    <Key>butConfigure</Key>
+    <Value>Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>butDescription</Key>
+    <Value>Description</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout</Key>
+    <Value>About</Value>
+  </Settings>
+  <Settings>
+    <Key>bSaveGenSettings</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>bCancelGenSet</Key>
+    <Value>OK</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPlaybackBuffer</Key>
+    <Value>Playback Buffer (ms)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMixerBuffer</Key>
+    <Value>Mixer Buffer</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputBuffer</Key>
+    <Value>Input Buffer</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEnableErrorLog</Key>
+    <Value>Enable Error Log</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVTSoundCard</Key>
+    <Value>Voicetrack</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCartsSoundCard</Key>
+    <Value>Instant Players</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux1</Key>
+    <Value>Aux Player 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux2</Key>
+    <Value>Aux Player 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux3</Key>
+    <Value>Aux Player 3</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux4</Key>
+    <Value>Aux Player 4</Value>
+  </Settings>
+  <Settings>
+    <Key>lbScAux5</Key>
+    <Value>Aux Player 5</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlay</Key>
+    <Value>Set the song volume to</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlayDescription</Key>
+    <Value>when playing overlay files. (0 is mute and 10 is maximum)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOnVTVol</Key>
+    <Value>Set the song volume to</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVTVolDescription</Key>
+    <Value>when playing VT. (0 is mute and 10 is maximum)</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSweeperFit</Key>
+    <Value>Fit Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>grLineInTitle</Key>
+    <Value>Line In Title</Value>
+  </Settings>
+  <Settings>
+    <Key>ckLineInEnable</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>lbLineInTitle</Key>
+    <Value>Line in Title</Value>
+  </Settings>
+  <Settings>
+    <Key>lbKeepHistory</Key>
+    <Value>Keep History For</Value>
+  </Settings>
+  <Settings>
+    <Key>lbKeepHistoryDays</Key>
+    <Value>days (0 to disable)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreloadTrack</Key>
+    <Value>Preload Next File before</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputFadeIn</Key>
+    <Value>Line Fade In</Value>
+  </Settings>
+  <Settings>
+    <Key>lbInputFadeOut</Key>
+    <Value>Line Fade Out</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopFadeOut</Key>
+    <Value>Stop Fade out Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopFadeoutMillisec</Key>
+    <Value>milliseconds.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorPlayedTracks</Key>
+    <Value>Played Tracks Color</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorDisabledTracks</Key>
+    <Value>Disabled Tracks Color</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtworkPath</Key>
+    <Value>Artwork Storage Path</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreloadSeconds</Key>
+    <Value>seconds.</Value>
+  </Settings>
+  <Settings>
+    <Key>ckHisghlightPlayedArtist</Key>
+    <Value>Highlight Played Artists</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStoreToDatabase</Key>
+    <Value>Store Settings In Database</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRemoteInstance</Key>
+    <Value>Remote Instance</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOneInstance</Key>
+    <Value>Allow Only One Instance</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOutputMode</Key>
+    <Value>Output Mode</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSmartEventsInterval</Key>
+    <Value>Smart Event Interval</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameTitle</Key>
+    <Value>Do not play the same title for</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes4</Key>
+    <Value>minutes.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSameAlbum</Key>
+    <Value>Do not play the same album for</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes3</Key>
+    <Value>minutes.</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtistSeparation</Key>
+    <Value>Artists Separation</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtistSeparationNote</Key>
+    <Value>(If a track has multiple artists, treat them individually. Experimental!)</Value>
+  </Settings>
+  <Settings>
+    <Key>ckResetSubcategory</Key>
+    <Value>Reset Subcategories</Value>
+  </Settings>
+  <Settings>
+    <Key>lbResetDetails</Key>
+    <Value>(when no track can be played anymore)</Value>
+  </Settings>
+  <Settings>
+    <Key>txtRestartRequired</Key>
+    <Value>In order to use the new settings, the program needs to be restarted!</Value>
+  </Settings>
+  <Settings>
+    <Key>grColors</Key>
+    <Value>Colors</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColorScheme</Key>
+    <Value>Color Scheme</Value>
+  </Settings>
+  <Settings>
+    <Key>grRecording</Key>
+    <Value>Recording</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRecordsFolder</Key>
+    <Value>Recording Folder</Value>
+  </Settings>
+  <Settings>
+    <Key>grArtwork</Key>
+    <Value>Artwork</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtwork</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>ckPassiveMode</Key>
+    <Value>Passive Mode (For Editing)</Value>
+  </Settings>
+  <Settings>
+    <Key>ckPreventDoubleStart</Key>
+    <Value>Prevent Multiple Start</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPreventMultipleStartInfo</Key>
+    <Value>The start command can be sent only once in a short interval.</Value>
+  </Settings>
+  <Settings>
+    <Key>LbKeepInPlaylist</Key>
+    <Value>Keep In Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTracksToKeepInPlaylist</Key>
+    <Value>items (0=one rotation)</Value>
+  </Settings>
+  <Settings>
+    <Key>grRemoteSettings</Key>
+    <Value>Remote Options</Value>
+  </Settings>
+  <Settings>
+    <Key>lbUserID</Key>
+    <Value>User ID</Value>
+  </Settings>
+  <Settings>
+    <Key>lbServer</Key>
+    <Value>Server Address</Value>
+  </Settings>
+</NewDataSet>

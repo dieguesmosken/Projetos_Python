@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>TCP Server</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Allows you to control the program using the local network or internet.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>TCP Server</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grSettings</Key>
+    <Value>Server Settings</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbIP</Key>
+    <Value>IP Address:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPort</Key>
+    <Value>Port:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Password:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckAutoStart</Key>
+    <Value>Auto Start</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStop</Key>
+    <Value>STOP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>START</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+</NewDataSet>

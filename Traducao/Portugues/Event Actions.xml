@@ -1,0 +1,238 @@
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Ações de evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabMainActions</Key>
+    <Value>Principais Ações</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tabPlugins</Key>
+    <Value>Plugins</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grActions</Key>
+    <Value>Ações</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Posição</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPath</Key>
+    <Value>Caminho (URL)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbArguments</Key>
+    <Value>argumentos</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>grPlaylist</Key>
+    <Value>LISTA DE REPRODUÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrack</Key>
+    <Value>Faixa de carga</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadTrackFromCategory</Key>
+    <Value>Carregar faixa da categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadPlaylist</Key>
+    <Value>Carregar lista de reprodução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ShufflePlaylist</Key>
+    <Value>Lista de reprodução aleatória</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ClearPlaylist</Key>
+    <Value>Limpar lista de reprodução</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>grPlayback</Key>
+    <Value>REPRODUÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Play</Key>
+    <Value>Começa a jogar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Pause</Key>
+    <Value>Pausa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnPause</Key>
+    <Value>Despausar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Stop</Key>
+    <Value>Pare de jogar</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>grAutomation</Key>
+    <Value>AUTOMAÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EnableAutoDJ</Key>
+    <Value>Ativar AutoDJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableAutoDJ</Key>
+    <Value>Desativar AutoDJ</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LoadRotation</Key>
+    <Value>Rotação da Pista de Carga</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SetSweeperCategory</Key>
+    <Value>Definir categoria de varredor</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PauseEvents</Key>
+    <Value>Pausar Eventos</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>grInputs</Key>
+    <Value>ENTRADAS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MuteInput</Key>
+    <Value>Entrada Mudo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>UnMuteInput</Key>
+    <Value>Ativar entrada de som</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>grOthers</Key>
+    <Value>OUTRAS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>RunApplication</Key>
+    <Value>Executar aplicativo</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>LaunchInternetLink</Key>
+    <Value>Iniciar link da Internet</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>EnableEventsCategory</Key>
+    <Value>Ativar categoria de eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DisableEventsCategory</Key>
+    <Value>Desativar categoria de eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedEnable</Key>
+    <Value>Ativar assistido</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AssistedDisable</Key>
+    <Value>Desativar Assistido</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>LoadM3UPlaylist</Key>
+    <Value>Carregar lista de reprodução M3U</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>SecondsToWait</Key>
+    <Value>Segundos para Esperar</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>RunSQLQuery</Key>
+    <Value>Executar consulta SQL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartRecording</Key>
+    <Value>Comece a gravar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StopRecording</Key>
+    <Value>Pare de gravar</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>butAddAction</Key>
+    <Value>Adicionar ação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,82 @@
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Arquivo da categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>Arquivo da categoria ou gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSelMode</Key>
+    <Value>Modo de seleção</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Jogado menos recentemente</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Jogado mais recentemente</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Menos vezes jogado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Mais jogado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>Por Prioridade</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Aleatório</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>bAddCatTrack</Key>
+    <Value>Adicionar ação</Value>
+  </Settings>
+  
+</NewDataSet>

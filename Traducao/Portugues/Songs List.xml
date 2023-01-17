@@ -1,0 +1,82 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Lista de faixas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butStart</Key>
+    <Value>COMEÇAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butIntro</Key>
+    <Value>INTRODUÇÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butEnd</Key>
+    <Value>FIM</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bAddSelFile</Key>
+    <Value>ADICIONAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancelTrack</Key>
+    <Value>CANCELAR ARQUIVO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bClose</Key>
+    <Value>PERTO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>Título</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cIntro</Key>
+    <Value>Introdução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cLastPlayed</Key>
+    <Value>última jogada</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyCategory</Key>
+    <Value>Qualquer categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnySubcategory</Key>
+    <Value>Qualquer subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  
+</NewDataSet>

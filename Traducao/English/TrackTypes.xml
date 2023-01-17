@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Any Track Type</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Music</Key>
+    <Value>Music</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Jingle</Key>
+    <Value>Jingle</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Sweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Voiceover</Key>
+    <Value>Voiceover</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Commercial</Key>
+    <Value>Commercial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>InternetStream</Key>
+    <Value>Internet Stream</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Other</Key>
+    <Value>Other</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>VDF</Key>
+    <Value>Variable Duration File</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Podcast</Key>
+    <Value>Podcast</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Request</Key>
+    <Value>Request</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>News</Key>
+    <Value>News</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PlaylistEvent</Key>
+    <Value>Playlist Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>FileByDate</Key>
+    <Value>File By Date</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>NewestFromFolder</Key>
+    <Value>Newest From Folder</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Teaser</Key>
+    <Value>Teaser</Value>
+  </Settings>
+</NewDataSet>

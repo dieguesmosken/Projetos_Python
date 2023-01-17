@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+
+  <Settings>
+    <Key>Path</Key>
+    <Value>Path/URL</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Title</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Album</Key>
+    <Value>Album</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>NoEvent</Key>
+    <Value>No Upcoming Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ConfirmTitle</Key>
+    <Value>Confirmation Needed</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ConfirmClose</Key>
+    <Value>Do you really want to quit the program?</Value>
+  </Settings>
+  
+  <!-- 1.6.4.3 -->
+  
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Any Track Type</Value>
+  </Settings>
+  
+</NewDataSet>

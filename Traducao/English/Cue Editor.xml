@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- TRANSLATION START --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>CUE Editor</Value>
+  </Settings>
+  
+  <!-- GROUP OPERATIONS --> 
+  
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>OPERATIONS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>editCue</Key>
+    <Value>Edit Mode</Value>
+  </Settings>
+  
+  <!-- GROUP FADE --> 
+  
+  <Settings>
+    <Key>grFading</Key>
+    <Value>FADE SETTINGS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeIn</Key>
+    <Value>Fade In</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>Fade Out</Value>
+  </Settings>
+  
+  <!-- GROUP CUSTOM SETTINGS --> 
+  
+  <Settings>
+    <Key>grCustomSettings</Key>
+    <Value>CUSTOM SETTINGS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Start Threshold</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Mix Threshold</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>End Threshold</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCustSet</Key>
+    <Value>APPLY SETTINGS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefSet</Key>
+    <Value>APPLY DEFAULT SETTINGS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefault</Key>
+    <Value>SAVE AS DEFAULT</Value>
+  </Settings>
+  
+  <!-- GROUP BUTTONS --> 
+  
+  <Settings>
+    <Key>bSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+</NewDataSet>

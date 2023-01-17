@@ -1,0 +1,109 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Lista de Eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAddEvent.Text</Key>
+    <Value>Novo evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose.Text</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventTime.HeaderText</Key>
+    <Value>Hora do evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EventName.HeaderText</Key>
+    <Value>Nome do evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventEnabled.HeaderText</Key>
+    <Value>Habilitado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>newEventToolStripMenuItem.Text</Key>
+    <Value>Novo evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>duplicateEventToolStripMenuItem.Text</Key>
+    <Value>Evento Duplicado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>deleteEventToolStripMenuItem.Text</Key>
+    <Value>Excluir evento</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>Excluir evento?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>Deseja realmente excluir este evento?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckUpcomingOnly</Key>
+    <Value>Ver por hora</Value>
+  </Settings>
+  
+  
+  
+  <Settings>
+    <Key>butRefresh</Key>
+    <Value>Atualizar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ButCategories</Key>
+    <Value>Categorias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txEventsCategories</Key>
+    <Value>Categorias de eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txConfirmatioNeeded</Key>
+    <Value>Confirmação Necessária</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteCategory</Key>
+    <Value>Deseja realmente excluir a categoria selecionada?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txRenameCategory</Key>
+    <Value>Deseja realmente renomear a categoria selecionada?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txAllEvents</Key>
+    <Value>Todos os eventos</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txCategoriesClose</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+</NewDataSet>

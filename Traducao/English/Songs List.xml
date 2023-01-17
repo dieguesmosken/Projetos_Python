@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Tracks List</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butStart</Key>
+    <Value>START</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butIntro</Key>
+    <Value>INTRO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butEnd</Key>
+    <Value>END</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bAddSelFile</Key>
+    <Value>ADD</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCancelTrack</Key>
+    <Value>CANCEL FILE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bClose</Key>
+    <Value>CLOSE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cIntro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cLastPlayed</Key>
+    <Value>Last Play</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyCategory</Key>
+    <Value>Any Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnySubcategory</Key>
+    <Value>Any Subcategory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>String.AnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  
+</NewDataSet>

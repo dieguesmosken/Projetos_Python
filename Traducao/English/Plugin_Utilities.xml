@@ -1,0 +1,207 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Utilities</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Program and Database Utilities.</Value>
+  </Settings>
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>Operations</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptimize</Key>
+    <Value>DATABASE OPTIMIZATION</Value>
+  </Settings>
+  <Settings>
+    <Key>butClearReports</Key>
+    <Value>DELETE HISTORY</Value>
+  </Settings>
+  <Settings>
+    <Key>butRelocate</Key>
+    <Value>RELOCATE TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>butResetPriority</Key>
+    <Value>RESET PRIORITY</Value>
+  </Settings>
+  <Settings>
+    <Key>butResetPlaycounts</Key>
+    <Value>RESET PLAYCOUNT</Value>
+  </Settings>
+  <Settings>
+    <Key>butTags</Key>
+    <Value>TAG SYNCRONIZATION</Value>
+  </Settings>
+  <Settings>
+    <Key>butVerifyTracks</Key>
+    <Value>VERIFY TRACKS</Value>
+  </Settings>
+  <Settings>
+    <Key>butReports</Key>
+    <Value>REPORTS</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>SuccessTitle</Key>
+    <Value>Succes</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmation Needed</Value>
+  </Settings>
+  <Settings>
+    <Key>OKOptimizeDB</Key>
+    <Value>The database was optimized successfully!</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearReportsConfirmation</Key>
+    <Value>Do you really want to clear the history?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKClearReports</Key>
+    <Value>The history was cleared successfully!</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityConfirmation</Key>
+    <Value>Do you really want to reset the priority for all tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKResetPriority</Key>
+    <Value>The priority is set to default value for all tracks!</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlayCountConfirmation</Key>
+    <Value>Do you really want to reset the playcount for all tracks?</Value>
+  </Settings>
+  <Settings>
+    <Key>OKResetPlayCount</Key>
+    <Value>The playcount was reset for all tracks!</Value>
+  </Settings>
+  <Settings>
+    <Key>VerifyTitle</Key>
+    <Value>Verify Tracks</Value>
+  </Settings>
+  <Settings>
+    <Key>VerifyDescription</Key>
+    <Value>Verify Track Path's</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDelete</Key>
+    <Value>Delete invalid tracks!</Value>
+  </Settings>
+  <Settings>
+    <Key>butStart</Key>
+    <Value>Start</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  <Settings>
+    <Key>RelocateTitle</Key>
+    <Value>Relocate Files</Value>
+  </Settings>
+  <Settings>
+    <Key>RelocateDescription</Key>
+    <Value>Relocate Lost Files</Value>
+  </Settings>
+  <Settings>
+    <Key>grPath</Key>
+    <Value>New Path</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCurentFile</Key>
+    <Value>Current File</Value>
+  </Settings>
+  <Settings>
+    <Key>lbItemsFound</Key>
+    <Value>Items Found</Value>
+  </Settings>
+  <Settings>
+    <Key>txtFilesRelocated</Key>
+    <Value>lost files.</Value>
+  </Settings>
+  <Settings>
+    <Key>TagsTitle</Key>
+    <Value>Tags Sync</Value>
+  </Settings>
+  <Settings>
+    <Key>TagsDescription</Key>
+    <Value>Tags Synchronization</Value>
+  </Settings>
+  <Settings>
+    <Key>grFields</Key>
+    <Value>Target Fields</Value>
+  </Settings>
+  <Settings>
+    <Key>ckArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>ckTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>ckAlbum</Key>
+    <Value>Album</Value>
+  </Settings>
+  <Settings>
+    <Key>ckComposer</Key>
+    <Value>Composer</Value>
+  </Settings>
+  <Settings>
+    <Key>ckCopyright</Key>
+    <Value>Copyright</Value>
+  </Settings>
+  <Settings>
+    <Key>ckComments</Key>
+    <Value>Comments</Value>
+  </Settings>
+  <Settings>
+    <Key>ckTrack</Key>
+    <Value>Track #</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDisc</Key>
+    <Value>Disc #</Value>
+  </Settings>
+  <Settings>
+    <Key>ckYear</Key>
+    <Value>Year</Value>
+  </Settings>
+  <Settings>
+    <Key>ckBpm</Key>
+    <Value>BPM</Value>
+  </Settings>
+  <Settings>
+    <Key>ckCue</Key>
+    <Value>CUE Data</Value>
+  </Settings>
+  <Settings>
+    <Key>butDB2Tag</Key>
+    <Value>From Database to TAGS</Value>
+  </Settings>
+  <Settings>
+    <Key>butTag2DB</Key>
+    <Value>From TAGS to Database</Value>
+  </Settings>
+  <Settings>
+    <Key>butFixDuration</Key>
+    <Value>UPDATE FILES DURATION</Value>
+  </Settings>
+  <Settings>
+    <Key>butAssociatedArtists</Key>
+    <Value>UPDATE ASSOCIATED ARTISTS</Value>
+  </Settings>
+</NewDataSet>

@@ -1,0 +1,398 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Rotação da Pista</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotTitle</Key>
+    <Value>Opções de nome de rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRotationName</Key>
+    <Value>Nome da rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdEditRotation</Key>
+    <Value>Editar rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>grRotContent</Key>
+    <Value>Conteúdo de rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Jogado menos recentemente</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Jogado mais recentemente</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Menos vezes jogado</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Mais jogado</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>Por Prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Aleatório</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType6</Key>
+    <Value>Importado menos recentemente</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType7</Key>
+    <Value>Importados mais recentemente</Value>
+  </Settings>
+  <Settings>
+    <Key>cCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cID</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>cGenreID</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>cSelType</Key>
+    <Value>Tipo de seleção</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption0</Key>
+    <Value>SEM</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption1</Key>
+    <Value>COMEÇAR</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption2</Key>
+    <Value>INTRODUÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>swOption3</Key>
+    <Value>FIM</Value>
+  </Settings>
+  <Settings>
+    <Key>cSweeper</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>cSongRepeat</Key>
+    <Value>Repetir Regras</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCategory</Key>
+    <Value>Faixa da categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRequest</Key>
+    <Value>Rastrear a partir de solicitações</Value>
+  </Settings>
+  <Settings>
+    <Key>rdEvent</Key>
+    <Value>Evento da lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>FormSaveRotationTitle</Key>
+    <Value>Salvar Rotação da Pista</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewRotation</Key>
+    <Value>Nome da rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplaceRotation</Key>
+    <Value>Substituir Rotação da Pista</Value>
+  </Settings>
+  <Settings>
+    <Key>rdDeleteRotation</Key>
+    <Value>Excluir Rotação da Faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>frmSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>frmCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>butRunQuery</Key>
+    <Value>Executar consulta</Value>
+  </Settings>
+  <Settings>
+    <Key>butListCategories</Key>
+    <Value>Listar categorias</Value>
+  </Settings>
+  <Settings>
+    <Key>butListSubcategories</Key>
+    <Value>Listar subcategorias</Value>
+  </Settings>
+  <Settings>
+    <Key>butListGenres</Key>
+    <Value>Listar gêneros</Value>
+  </Settings>
+  <Settings>
+    <Key>butOK</Key>
+    <Value>OK</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>titleConfirmation</Key>
+    <Value>Confirmação</Value>
+  </Settings>
+  <Settings>
+    <Key>msgDeleteQueryContent</Key>
+    <Value>Você realmente deseja excluir o conteúdo existente?</Value>
+  </Settings>
+  <Settings>
+    <Key>titleError</Key>
+    <Value>Erro</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoContent</Key>
+    <Value>A consulta não retornou nenhum conteúdo, ou contém erros!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgSaveQuery</Key>
+    <Value>Deseja salvar a consulta existente?</Value>
+  </Settings>
+  <Settings>
+    <Key>cEdit</Key>
+    <Value>Editar</Value>
+  </Settings>
+  <Settings>
+    <Key>cDelete</Key>
+    <Value>Excluir</Value>
+  </Settings>
+  <Settings>
+    <Key>bSaveRotation</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>bCancelRotation</Key>
+    <Value>Perto</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSelectionType</Key>
+    <Value>Modo de seleção</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSweeper</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackSeparation</Key>
+    <Value>Não repita a faixa para</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtistRepeat</Key>
+    <Value>Não repita o artista para</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitleRepeat</Key>
+    <Value>Não repita o título para</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAlbumRepeat</Key>
+    <Value>Não repita o álbum para</Value>
+  </Settings>
+  <Settings>
+    <Key>grProperties</Key>
+    <Value>Propriedades</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes1</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes2</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes3</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes4</Key>
+    <Value>minutos.</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRotationName</Key>
+    <Value>Nome da rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>titleSuccess</Key>
+    <Value>Sucesso</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationSaved</Key>
+    <Value>A rotação foi salva!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationNameMissing</Key>
+    <Value>Digite um nome para a rotação da pista!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationAlreadyExists</Key>
+    <Value>Já existe uma rotação de faixa com este nome, deseja substituí-la?</Value>
+  </Settings>
+  <Settings>
+    <Key>typeEvent</Key>
+    <Value>Evento</Value>
+  </Settings>
+  <Settings>
+    <Key>typeQuery</Key>
+    <Value>Consulta</Value>
+  </Settings>
+  <Settings>
+    <Key>typeRequest</Key>
+    <Value>Solicitar</Value>
+  </Settings>
+  <Settings>
+    <Key>txtNoRotations</Key>
+    <Value>Não há rotações de pista!</Value>
+  </Settings>
+  <Settings>
+    <Key>txtEventDoesntExistAnymore</Key>
+    <Value>Evento inválido!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRemoveRotationItem</Key>
+    <Value>Deseja realmente excluir este item?</Value>
+  </Settings>
+  <Settings>
+    <Key>msgDeleteRotation</Key>
+    <Value>Você realmente deseja excluir esta rotação de faixa?</Value>
+  </Settings>
+  <Settings>
+    <Key>msgCannotDeleteNotSaved</Key>
+    <Value>Você não pode salvar esta rotação de trilha porque ela ainda não foi salva!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgRotationEmpty</Key>
+    <Value>A rotação está vazia!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoRotationAvalable</Key>
+    <Value>Não há rotação de faixa disponível no programa! Até que você crie, o Auto DJ não será capaz de gerar nenhuma lista de reprodução!</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEventName</Key>
+    <Value>Nome do evento</Value>
+  </Settings>
+  <Settings>
+    <Key>msgNoManualEvent</Key>
+    <Value>Nenhum evento manual encontrado!</Value>
+  </Settings>
+  <Settings>
+    <Key>msgSelectEvent</Key>
+    <Value>Selecione um evento!</Value>
+  </Settings>
+  <Settings>
+    <Key>eventsTitle</Key>
+    <Value>Eventos de Rotação</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromCategoryToolStripMenuItem</Key>
+    <Value>Faixa da categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromSQLQueryToolStripMenuItem</Key>
+    <Value>Rastrear a partir da consulta SQL</Value>
+  </Settings>
+  <Settings>
+    <Key>TrackFromRequestsToolStripMenuItem</Key>
+    <Value>Rastrear a partir de solicitações</Value>
+  </Settings>
+  <Settings>
+    <Key>butAddManualEvent</Key>
+    <Value>Evento manual</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmDeleteRotation</Key>
+    <Value>Você realmente deseja excluir esta rotação de faixa?</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmTitleDeleteRotation</Key>
+    <Value>Excluir Rotação da Faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>grRepeatOverride</Key>
+    <Value>Repetir Substituição de Regras (0=Usar Valores Globais)</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType8</Key>
+    <Value>Classificação mais alta</Value>
+  </Settings>
+  <Settings>
+    <Key>cbSelType9</Key>
+    <Value>Classificação mais baixa</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMood</Key>
+    <Value>Humor</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGender</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackLanguage</Key>
+    <Value>Linguagem</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartType</Key>
+    <Value>Tipo de início</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndType</Key>
+    <Value>Tipo final</Value>
+  </Settings>
+  <Settings>
+    <Key>ItemsAvailable</Key>
+    <Value>arquivos disponíveis usando filtros selecionados.</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyItem</Key>
+    <Value>Nenhum</Value>
+  </Settings>
+  <Settings>
+    <Key>grRequestOptions</Key>
+    <Value>Opções de Solicitação</Value>
+  </Settings>
+</NewDataSet>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>MJS_Enabled</Key>
+    <Value>True</Value>
+  </Settings>
+  <Settings>
+    <Key>MJS_Device</Key>
+    <Value>0</Value>
+  </Settings>
+</NewDataSet>

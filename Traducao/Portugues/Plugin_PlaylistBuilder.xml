@@ -1,0 +1,270 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Criador de listas de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Crie listas de reprodução personalizadas.</Value>
+  </Settings>
+  <Settings>
+    <Key>SaveFormTitle</Key>
+    <Value>Salvar lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMinutes</Key>
+    <Value>minutos</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewPlaylist</Key>
+    <Value>Nova Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplacePlaylist</Key>
+    <Value>Substituir lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>rdDeletePlaylist</Key>
+    <Value>Excluir lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SALVE </Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCELAR</Value>
+  </Settings>
+  <Settings>
+    <Key>OpenFormTitle</Key>
+    <Value>Lista de reprodução aberta</Value>
+  </Settings>
+  <Settings>
+    <Key>rdPlaylists</Key>
+    <Value>listas de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>rdFromRotation</Key>
+    <Value>Lista de reprodução da rotação da faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>rdMainPlaylist</Key>
+    <Value>Lista de reprodução principal</Value>
+  </Settings>
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>ABRIR</Value>
+  </Settings>
+  <Settings>
+    <Key>colTime</Key>
+    <Value>TEMPO</Value>
+  </Settings>
+  <Settings>
+    <Key>colArtist</Key>
+    <Value>ARTISTA</Value>
+  </Settings>
+  <Settings>
+    <Key>colTitle</Key>
+    <Value>TÍTULO</Value>
+  </Settings>
+  <Settings>
+    <Key>colIntro</Key>
+    <Value>INTRODUÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>colDuration</Key>
+    <Value>DURAÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>colSW</Key>
+    <Value>VARREDORA</Value>
+  </Settings>
+  <Settings>
+    <Key>colVT</Key>
+    <Value>TV</Value>
+  </Settings>
+  <Settings>
+    <Key>colTrigger</Key>
+    <Value>DESENCADEAR</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubcategory</Key>
+    <Value>Qualquer subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoPlaylist</Key>
+    <Value>Nenhuma lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoPlaylistMsg</Key>
+    <Value>Selecione uma lista de reprodução primeiro!</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoRotation</Key>
+    <Value>Sem Rotação de Pista</Value>
+  </Settings>
+  <Settings>
+    <Key>txNoRotationMsg</Key>
+    <Value>Por favor, selecione uma rotação de faixa primeiro!</Value>
+  </Settings>
+  <Settings>
+    <Key>txReplaceMsg</Key>
+    <Value>Deseja mesmo substituir a lista de reprodução selecionada?</Value>
+  </Settings>
+  <Settings>
+    <Key>txDeleteMsg</Key>
+    <Value>Você realmente deseja excluir a lista de reprodução selecionada?</Value>
+  </Settings>
+  <Settings>
+    <Key>txNewPlaylist</Key>
+    <Value>Você realmente deseja criar uma nova lista de reprodução?</Value>
+  </Settings>
+  <Settings>
+    <Key>txPlaylistEmptyMsg</Key>
+    <Value>A lista de reprodução está vazia!</Value>
+  </Settings>
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>COMEÇAR</Value>
+  </Settings>
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>INTRODUÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>txtEnd</Key>
+    <Value>FIM</Value>
+  </Settings>
+  <Settings>
+    <Key>tsFile</Key>
+    <Value>Arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>tsNewPlaylist</Key>
+    <Value>Nova Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOpenPlaylist</Key>
+    <Value>Lista de reprodução aberta</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSavePlaylist</Key>
+    <Value>Salvar lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>tsExportHtml</Key>
+    <Value>Exportar como arquivo HTML</Value>
+  </Settings>
+  <Settings>
+    <Key>tsExit</Key>
+    <Value>Saída</Value>
+  </Settings>
+  <Settings>
+    <Key>tsEdit</Key>
+    <Value>Editar</Value>
+  </Settings>
+  <Settings>
+    <Key>tsShuffle</Key>
+    <Value>Lista de reprodução aleatória</Value>
+  </Settings>
+  <Settings>
+    <Key>tsTempEdit</Key>
+    <Value>Edição Temporária</Value>
+  </Settings>
+  <Settings>
+    <Key>tsReload</Key>
+    <Value>Recarregar faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>tsAddToPlaylist</Key>
+    <Value>Adicionar à Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>tsDeleteFromPlaylist</Key>
+    <Value>Excluir da lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>tsClearPlaylist</Key>
+    <Value>Limpar lista de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImport</Key>
+    <Value>Importar</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImportFile</Key>
+    <Value>Importar arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>tsImportFolder</Key>
+    <Value>Importar Pasta</Value>
+  </Settings>
+  <Settings>
+    <Key>rdM3u</Key>
+    <Value>Lista de reprodução .M3U</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPosition</Key>
+    <Value>Posição</Value>
+  </Settings>
+  <Settings>
+    <Key>WarningTitle</Key>
+    <Value>Confirmação Necessária</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteFromPlaylistConfirmation</Key>
+    <Value>Você realmente deseja excluir a faixa selecionada da lista de reprodução?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteFromDatabaseConfirmation</Key>
+    <Value>Você realmente deseja excluir a faixa selecionada do banco de dados?</Value>
+  </Settings>
+  <Settings>
+    <Key>tsEvents</Key>
+    <Value>Eventos</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOrientation</Key>
+    <Value>Orientação do Windows</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSidebySide</Key>
+    <Value>Horizontalmente</Value>
+  </Settings>
+  <Settings>
+    <Key>tsTopBottom</Key>
+    <Value>Verticalmente</Value>
+  </Settings>
+  <Settings>
+    <Key>tsAddEvent</Key>
+    <Value>Adicionar Evento</Value>
+  </Settings>
+  <Settings>
+    <Key>tlDelete2</Key>
+    <Value>Excluir</Value>
+  </Settings>
+  <Settings>
+    <Key>GenerateFromRotationToolStripMenuItem</Key>
+    <Value>Gerar lista de reprodução a partir da rotação</Value>
+  </Settings>
+</NewDataSet>

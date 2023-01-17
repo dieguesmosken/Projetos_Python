@@ -1,0 +1,143 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Directory Import</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grContainer</Key>
+    <Value>Import Settings</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSubdirs</Key>
+    <Value>Complete Scan</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubdirs</Key>
+    <Value>(Including Subdirectories)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckID3Genre</Key>
+    <Value>Genre from ID3</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>Track Type</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPlayFiles</Key>
+    <Value>Play track for</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTimesAndThen</Key>
+    <Value>times and then</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPriority</Key>
+    <Value>Priority</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckClearCategory</Key>
+    <Value>Empty Subcat.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbClearInfo</Key>
+    <Value>(If selected, will clear all imported tracks from the selected subcategory!)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnabled</Key>
+    <Value>Enable Tracks</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bImportDirectory</Key>
+    <Value>Import Directory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist0</Key>
+    <Value>Music</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist1</Key>
+    <Value>Jingle</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist2</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist3</Key>
+    <Value>Voiceover</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist4</Key>
+    <Value>Commercial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist5</Key>
+    <Value>Other</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction0</Key>
+    <Value>Nothing</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction1</Key>
+    <Value>Disable</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction2</Key>
+    <Value>Delete</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction3</Key>
+    <Value>Move To</Value>
+  </Settings>
+  
+</NewDataSet>

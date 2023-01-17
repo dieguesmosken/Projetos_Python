@@ -1,0 +1,142 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Importação de diretório</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grContainer</Key>
+    <Value>Configurações de Importação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckSubdirs</Key>
+    <Value>Varredura completa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubdirs</Key>
+    <Value>(incluindo subdiretórios)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckID3Genre</Key>
+    <Value>Gênero de ID3</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>Tipo de trilha</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPlayFiles</Key>
+    <Value>Reproduzir faixa para</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbTimesAndThen</Key>
+    <Value>vezes e então</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPriority</Key>
+    <Value>Prioridade</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckClearCategory</Key>
+    <Value>Subcat. Vazio.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbClearInfo</Key>
+    <Value>(Se selecionado, limpará todas as faixas importadas da subcategoria selecionada!)</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckEnabled</Key>
+    <Value>Ativar faixas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bImportDirectory</Key>
+    <Value>Diretório de Importação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist0</Key>
+    <Value>Música</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist1</Key>
+    <Value>Tinir</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist2</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist3</Key>
+    <Value>Locução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist4</Key>
+    <Value>Comercial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>tracktypelist5</Key>
+    <Value>De outros</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction0</Key>
+    <Value>Nenhuma coisa</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction1</Key>
+    <Value>Desativar</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction2</Key>
+    <Value>Excluir</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>playaction3</Key>
+    <Value>Mover para</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,122 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Jogadores Instantâneos</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Plug-in de jogadores instantâneos</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Opções</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSeparate</Key>
+    <Value>Como Janela Separada</Value>
+  </Settings>
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Zona de plugins</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColumns</Key>
+    <Value>colunas</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRows</Key>
+    <Value>Linhas</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSepColumns</Key>
+    <Value>Colunas (janela separada)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSepRows</Key>
+    <Value>Linhas (janela separada)</Value>
+  </Settings>
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Save</Key>
+    <Value>Salve este conjunto de jogadores instantâneos</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Delete</Key>
+    <Value>Excluir este conjunto de jogadores instantâneos</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Fade</Key>
+    <Value>Fade out na parada</Value>
+  </Settings>
+  <Settings>
+    <Key>butFade</Key>
+    <Value>DESAPARECER</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Continuous</Key>
+    <Value>Jogue um jogador instantâneo por vez</Value>
+  </Settings>
+  <Settings>
+    <Key>butContinuous</Key>
+    <Value>SOLTEIRO</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Stop</Key>
+    <Value>Parar o reprodutor instantâneo</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteCartMsg</Key>
+    <Value>Você realmente deseja excluir este conjunto de jogadores instantâneos?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteCartTitle</Key>
+    <Value>Confirmação Necessária!</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadCart</Key>
+    <Value>Carregar Reprodutor Instantâneo</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearCart</Key>
+    <Value>Excluir reprodutor instantâneo</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuLoad</Key>
+    <Value>Varredor de Carga</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuClear</Key>
+    <Value>Excluir vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuColor</Key>
+    <Value>Cor</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopDurationDuration</Key>
+    <Value>Parar Duração do Fade</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewCart</Key>
+    <Value>Novo conjunto</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplaceCart</Key>
+    <Value>Substituir Conjunto</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>SaveCartTitle</Key>
+    <Value>Salvar conjunto</Value>
+  </Settings>
+</NewDataSet>

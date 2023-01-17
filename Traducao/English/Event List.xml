@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Events List</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butAddEvent.Text</Key>
+    <Value>New Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose.Text</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventTime.HeaderText</Key>
+    <Value>Event Hour</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EventName.HeaderText</Key>
+    <Value>Event Name</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cEventEnabled.HeaderText</Key>
+    <Value>Enabled</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>newEventToolStripMenuItem.Text</Key>
+    <Value>New Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>duplicateEventToolStripMenuItem.Text</Key>
+    <Value>Duplicate Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>deleteEventToolStripMenuItem.Text</Key>
+    <Value>Delete Event</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>Delete Event?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>Do you really want to delete this event?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckUpcomingOnly</Key>
+    <Value>View by Hour</Value>
+  </Settings>
+  
+  <!-- v1.6.3.3 -->
+  
+  <Settings>
+    <Key>butRefresh</Key>
+    <Value>Refresh</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ButCategories</Key>
+    <Value>Categories</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txEventsCategories</Key>
+    <Value>Events Categories</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txConfirmatioNeeded</Key>
+    <Value>Confirmation Needed</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txDeleteCategory</Key>
+    <Value>Do you really want to delete the selected category?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txRenameCategory</Key>
+    <Value>Do you really want to rename the selected category?</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txAllEvents</Key>
+    <Value>All Events</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txCategoriesClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  
+</NewDataSet>

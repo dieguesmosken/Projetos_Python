@@ -1,0 +1,58 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>jogadores auxiliares</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>Pare</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>Toque</Value>
+  </Settings>
+  <Settings>
+    <Key>butLoop_tip</Key>
+    <Value>Repita</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTime_tip</Key>
+    <Value>Tempo decorrido</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTime_tip</Key>
+    <Value>Tempo restante</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTime_tip</Key>
+    <Value>Duração</Value>
+  </Settings>
+  <Settings>
+    <Key>butADD_tip</Key>
+    <Value>Adicionar</Value>
+  </Settings>
+  <Settings>
+    <Key>menOpenDBFile</Key>
+    <Value>Adicionar do banco de dados</Value>
+  </Settings>
+  <Settings>
+    <Key>menuOpenFile</Key>
+    <Value>Abrir arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>menuClearPlayer</Key>
+    <Value>Fechar arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Jogador complementar</Value>
+  </Settings>
+
+</NewDataSet>

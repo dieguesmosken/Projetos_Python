@@ -1,0 +1,278 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Rastrear Importação</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle2</Key>
+    <Value>Editar faixa</Value>
+  </Settings>
+  <Settings>
+    <Key>butCue</Key>
+    <Value>Editor CUE</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>butSave2</Key>
+    <Value>Importar</Value>
+  </Settings>
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Perto</Value>
+  </Settings>
+  <Settings>
+    <Key>tabSettings</Key>
+    <Value>Configurações</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPath</Key>
+    <Value>Caminho/URL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>Tipo de trilha</Value>
+  </Settings>
+  <Settings>
+    <Key>typeMusic</Key>
+    <Value>Música</Value>
+  </Settings>
+  <Settings>
+    <Key>typeJingle</Key>
+    <Value>Tinir</Value>
+  </Settings>
+  <Settings>
+    <Key>typeSweeper</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>typeVoiceover</Key>
+    <Value>Locução</Value>
+  </Settings>
+  <Settings>
+    <Key>typeCommercial</Key>
+    <Value>Comercial</Value>
+  </Settings>
+  <Settings>
+    <Key>typeInternetStream</Key>
+    <Value>Fluxo da Internet</Value>
+  </Settings>
+  <Settings>
+    <Key>typeOther</Key>
+    <Value>De outros</Value>
+  </Settings>
+  <Settings>
+    <Key>typeVDF</Key>
+    <Value>VDF - Arquivo de Duração Variável</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPlayTimes</Key>
+    <Value>Jogar para</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTimesAndThen</Key>
+    <Value>vezes e depois</Value>
+  </Settings>
+  <Settings>
+    <Key>actionNothing</Key>
+    <Value>Nenhuma coisa</Value>
+  </Settings>
+  <Settings>
+    <Key>actionDisable</Key>
+    <Value>Desativar</Value>
+  </Settings>
+  <Settings>
+    <Key>actionDelete</Key>
+    <Value>Excluir</Value>
+  </Settings>
+  <Settings>
+    <Key>actionMoveTo</Key>
+    <Value>Mover para</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartDate</Key>
+    <Value>Data de início</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndDate</Key>
+    <Value>Data final</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPriority</Key>
+    <Value>Prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEnabled</Key>
+    <Value>Habilitado</Value>
+  </Settings>
+  <Settings>
+    <Key>tabDetails</Key>
+    <Value>Detalhes</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtist2</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitle2</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAlbum</Key>
+    <Value>Álbum</Value>
+  </Settings>
+  <Settings>
+    <Key>lbComposer</Key>
+    <Value>Compositor</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOriginalArtist</Key>
+    <Value>Artista original</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPublisher</Key>
+    <Value>Publicista</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCopyright</Key>
+    <Value>direito autoral</Value>
+  </Settings>
+  <Settings>
+    <Key>lbISRC</Key>
+    <Value>ISRC</Value>
+  </Settings>
+  <Settings>
+    <Key>lbYear</Key>
+    <Value>Ano</Value>
+  </Settings>
+  <Settings>
+    <Key>lbBPM</Key>
+    <Value>BPM</Value>
+  </Settings>
+  <Settings>
+    <Key>ckBPM</Key>
+    <Value>AUTO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDisc</Key>
+    <Value>Disc #</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrack</Key>
+    <Value>Track #</Value>
+  </Settings>
+  <Settings>
+    <Key>tabSweepers</Key>
+    <Value>varredores</Value>
+  </Settings>
+  <Settings>
+    <Key>grAvailableSweepers</Key>
+    <Value>Varredores disponíveis</Value>
+  </Settings>
+  <Settings>
+    <Key>grActiveSweepers</Key>
+    <Value>Varredores ativos</Value>
+  </Settings>
+  <Settings>
+    <Key>tabComments</Key>
+    <Value>Comentários</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMoveTo</Key>
+    <Value>Nova categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMoveToSubcategory</Key>
+    <Value>Nova Subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>ckPrecision</Key>
+    <Value>Pontos CUE de alta precisão</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOverlay</Key>
+    <Value>Arquivo de Sobreposição</Value>
+  </Settings>
+  <Settings>
+    <Key>ckOriginalStreamTitle</Key>
+    <Value>Usar o título da transmissão original</Value>
+  </Settings>
+  <Settings>
+    <Key>butSaveID3</Key>
+    <Value>Salvar ID3</Value>
+  </Settings>
+  <Settings>
+    <Key>butReloadID3</Key>
+    <Value>ID3 lido</Value>
+  </Settings>
+  <Settings>
+    <Key>tabOthers</Key>
+    <Value>Outras</Value>
+  </Settings>
+  <Settings>
+    <Key>tabImage</Key>
+    <Value>Imagem</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMood</Key>
+    <Value>Humor</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGender</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackLanguage</Key>
+    <Value>Linguagem</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartType</Key>
+    <Value>Tipo de início</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndType</Key>
+    <Value>Tipo final</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMixType</Key>
+    <Value>Tipo de mistura</Value>
+  </Settings>
+  <Settings>
+    <Key>lbBuyLink</Key>
+    <Value>Link de compra</Value>
+  </Settings>
+  <Settings>
+    <Key>lbURL1</Key>
+    <Value>URL 1</Value>
+  </Settings>
+  <Settings>
+    <Key>lbURL2</Key>
+    <Value>URL 2</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartEvent</Key>
+    <Value>Iniciar evento</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndEvent</Key>
+    <Value>Evento final</Value>
+  </Settings>
+</NewDataSet>

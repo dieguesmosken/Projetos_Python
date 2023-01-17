@@ -1,0 +1,426 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Gerenciador de trilhas</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Utilitário Gerenciador de Faixas.</Value>
+  </Settings>
+  <Settings>
+    <Key>grTrackType</Key>
+    <Value>TIPOS DE ARQUIVO</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeType</Key>
+    <Value>TIPO DE MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>grGenre</Key>
+    <Value>GÊNEROS</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeGenre</Key>
+    <Value>MUDAR DE GÊNERO</Value>
+  </Settings>
+  <Settings>
+    <Key>grMoveFiles</Key>
+    <Value>JOGADA</Value>
+  </Settings>
+  <Settings>
+    <Key>butMoveTracks</Key>
+    <Value>MOVER PISTAS</Value>
+  </Settings>
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>OPERAÇÕES</Value>
+  </Settings>
+  <Settings>
+    <Key>butEnable</Key>
+    <Value>ATIVAR TRILHAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butDisable</Key>
+    <Value>DESATIVAR TRILHAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butDelete</Key>
+    <Value>APAGAR TRILHAS</Value>
+  </Settings>
+  <Settings>
+    <Key>EditTrack</Key>
+    <Value>EDITAR TRILHA</Value>
+  </Settings>
+  <Settings>
+    <Key>SelectAll</Key>
+    <Value>Selecionar tudo</Value>
+  </Settings>
+  <Settings>
+    <Key>InverseSelection</Key>
+    <Value>Seleção invertida</Value>
+  </Settings>
+  <Settings>
+    <Key>grMonitor</Key>
+    <Value>MONITOR</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Perto</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowAll</Key>
+    <Value>Mostre tudo</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowEnabled</Key>
+    <Value>Mostrar ativado</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowDisabled</Key>
+    <Value>Mostrar Desativado</Value>
+  </Settings>
+  <Settings>
+    <Key>grRename</Key>
+    <Value>RENOMEAR</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCapitalize</Key>
+    <Value>Capitalizar</Value>
+  </Settings>
+  <Settings>
+    <Key>rdLowerCase</Key>
+    <Value>Minúsculas</Value>
+  </Settings>
+  <Settings>
+    <Key>rdUpperCase</Key>
+    <Value>Maiúsculas</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplace</Key>
+    <Value>Substituir</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTo</Key>
+    <Value>com</Value>
+  </Settings>
+  <Settings>
+    <Key>butRename</Key>
+    <Value>RENOMEAR</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>Duration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  <Settings>
+    <Key>Intro</Key>
+    <Value>Introdução</Value>
+  </Settings>
+  <Settings>
+    <Key>Priority</Key>
+    <Value>Prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>TimesPlayed</Key>
+    <Value>Tocam</Value>
+  </Settings>
+  <Settings>
+    <Key>Enabled</Key>
+    <Value>Habilitado</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyCategory</Key>
+    <Value>Qualquer categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnySubCategory</Key>
+    <Value>Qualquer subcategoria</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyGenre</Key>
+    <Value>Qualquer gênero</Value>
+  </Settings>
+  <Settings>
+    <Key>AnyTrackType</Key>
+    <Value>Qualquer tipo</Value>
+  </Settings>
+  <Settings>
+    <Key>ttMusic</Key>
+    <Value>Música</Value>
+  </Settings>
+  <Settings>
+    <Key>ttJingle</Key>
+    <Value>Tinir</Value>
+  </Settings>
+  <Settings>
+    <Key>ttSweeper</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>ttVoiceover</Key>
+    <Value>Locução</Value>
+  </Settings>
+  <Settings>
+    <Key>ttCommercial</Key>
+    <Value>Comercial</Value>
+  </Settings>
+  <Settings>
+    <Key>ttInternetStream</Key>
+    <Value>Fluxo de Internet</Value>
+  </Settings>
+  <Settings>
+    <Key>ttOther</Key>
+    <Value>Outras</Value>
+  </Settings>
+  <Settings>
+    <Key>ttVDF</Key>
+    <Value>Arquivo de duração variável</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCategory</Key>
+    <Value>Faixa da categoria</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRequest</Key>
+    <Value>Rastrear a partir de solicitações</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmação Necessária!</Value>
+  </Settings>
+  <Settings>
+    <Key>StateConfirmation</Key>
+    <Value>Você realmente deseja alterar o estado das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteConfirmation</Key>
+    <Value>Você realmente deseja excluir as faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>TypeConfirmation</Key>
+    <Value>Você realmente deseja alterar o tipo das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>MoveConfirmation</Key>
+    <Value>Você realmente deseja mover as faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>GenreConfirmation</Key>
+    <Value>Você realmente deseja alterar o gênero das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriority</Key>
+    <Value>Redefinir prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>ShowNowFound</Key>
+    <Value>Mostrar não encontrado</Value>
+  </Settings>
+  <Settings>
+    <Key>SelectNone</Key>
+    <Value>Selecione nenhum</Value>
+  </Settings>
+  <Settings>
+    <Key>CategoriesToolStripMenuItem1</Key>
+    <Value>Categorias</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForSelectedTracksToolStripMenuItem</Key>
+    <Value>Redefinir contagem de reprodução para os arquivos selecionados</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForSelectedTracksToolStripMenuItem</Key>
+    <Value>Redefinir prioridade para os arquivos selecionados</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForSubcategoryToolStripMenuItem1</Key>
+    <Value>Redefinir contagem de reprodução para a subcategoria selecionada</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForSubcategoryToolStripMenuItem1</Key>
+    <Value>Redefinir prioridade para a subcategoria selecionada</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountForGenreToolStripMenuItem</Key>
+    <Value>Redefinir contagem de reprodução para o gênero selecionado</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityForGenreToolStripMenuItem</Key>
+    <Value>Redefinir prioridade para o gênero selecionado</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetToolStripMenuItem</Key>
+    <Value>Reinicia</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPlaycountToolStripMenuItem</Key>
+    <Value>Redefinir contagem de reprodução</Value>
+  </Settings>
+  <Settings>
+    <Key>ResetPriorityToolStripMenuItem</Key>
+    <Value>Redefinir prioridade</Value>
+  </Settings>
+  <Settings>
+    <Key>MoodConfirmation</Key>
+    <Value>Você realmente quer mudar o clima das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>GenderConfirmation</Key>
+    <Value>Você realmente deseja alterar o gênero das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>LanguageConfirmation</Key>
+    <Value>Você realmente deseja alterar o idioma das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>RatingConfirmation</Key>
+    <Value>Você realmente deseja alterar a classificação das faixas selecionadas?</Value>
+  </Settings>
+  <Settings>
+    <Key>grMood</Key>
+    <Value>HUMOR</Value>
+  </Settings>
+  <Settings>
+    <Key>grGender</Key>
+    <Value>GÊNERO SEXUAL</Value>
+  </Settings>
+  <Settings>
+    <Key>grLanguage</Key>
+    <Value>LÍNGUA</Value>
+  </Settings>
+  <Settings>
+    <Key>grRating</Key>
+    <Value>AVALIAÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>grTitleOperations</Key>
+    <Value>OPERAÇÕES DE TÍTULO</Value>
+  </Settings>
+  <Settings>
+    <Key>grStartEndDate</Key>
+    <Value>DATA DE INÍCIO-FIM</Value>
+  </Settings>
+  <Settings>
+    <Key>grTrackState</Key>
+    <Value>RASTREAR ESTADO</Value>
+  </Settings>
+  <Settings>
+    <Key>grCategory</Key>
+    <Value>CATEGORIA DE TRILHA</Value>
+  </Settings>
+  <Settings>
+    <Key>grAnalyzeTracks</Key>
+    <Value>ANALISADOR DE RASTREIO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartDate</Key>
+    <Value>Data de início</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndDate</Key>
+    <Value>Data final</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Nível inicial</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Próximo Nível Inicial</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>Nível final</Value>
+  </Settings>
+  <Settings>
+    <Key>butAnalyze</Key>
+    <Value>ANALISAR</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFile</Key>
+    <Value>IMPORTAR ARQUIVO</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFolder</Key>
+    <Value>IMPORTAR PASTA</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategories</Key>
+    <Value>CATEGORIAS</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategoryCh</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butGenreCh</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butChTrackType</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butTrackState</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeMood</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeGender</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butChangeLanguage</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butRatingChange</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>ButChangeStartEndDate</Key>
+    <Value>MUDANÇA</Value>
+  </Settings>
+  <Settings>
+    <Key>butReplace</Key>
+    <Value>SUBSTITUIR</Value>
+  </Settings>
+  <Settings>
+    <Key>lbReplace</Key>
+    <Value>com</Value>
+  </Settings>
+  <Settings>
+    <Key>ToolsToolStripMenuItem</Key>
+    <Value>Ferramentas</Value>
+  </Settings>
+  <Settings>
+    <Key>DisplayDuplicateTitlesToolStripMenuItem</Key>
+    <Value>Exibir arquivos duplicados de artista e título</Value>
+  </Settings>
+  <Settings>
+    <Key>DisplayDuplicateTitlesToolStripMenuItem1</Key>
+    <Value>Exibir arquivos duplicados de título</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteSelectedTracksFromDriveToolStripMenuItem</Key>
+    <Value>Excluir do disco</Value>
+  </Settings>
+  <Settings>
+    <Key>EditCUEToolStripMenuItem</Key>
+    <Value>Editor CUE</Value>
+  </Settings>
+</NewDataSet>

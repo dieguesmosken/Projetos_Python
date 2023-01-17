@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginTitle</Key>
+    <Value>Notes</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Text editor for RadioDJ</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripNew</Key>
+    <Value>New Document</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOpen</Key>
+    <Value>Open Document</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  <Settings>
+    <Key>butSaveAs</Key>
+    <Value>Save As</Value>
+  </Settings>
+  <Settings>
+    <Key>tsUndo</Key>
+    <Value>Undo</Value>
+  </Settings>
+  <Settings>
+    <Key>tsRedo</Key>
+    <Value>Redo</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCopy</Key>
+    <Value>Copy</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCut</Key>
+    <Value>Cut</Value>
+  </Settings>
+  <Settings>
+    <Key>tsPaste</Key>
+    <Value>Paste</Value>
+  </Settings>
+  <Settings>
+    <Key>tsBold</Key>
+    <Value>Bold</Value>
+  </Settings>
+  <Settings>
+    <Key>tsItalic</Key>
+    <Value>Italic</Value>
+  </Settings>
+  <Settings>
+    <Key>tsUnderline</Key>
+    <Value>Underline</Value>
+  </Settings>
+  <Settings>
+    <Key>tsLeft</Key>
+    <Value>Align to Left</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCenter</Key>
+    <Value>Align to Center</Value>
+  </Settings>
+  <Settings>
+    <Key>tsRight</Key>
+    <Value>Align to Right</Value>
+  </Settings>
+</NewDataSet>

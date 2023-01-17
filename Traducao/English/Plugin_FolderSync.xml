@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>grSyncSettings</Key>
+    <Value>Sync Settings</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Category</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTrackType</Key>
+    <Value>Track Type</Value>
+  </Settings>
+  <Settings>
+    <Key>butSyncNow</Key>
+    <Value>Sync Now</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Folder Sync</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Sync Folders with Subcategories</Value>
+  </Settings>
+  <Settings>
+    <Key>cCategory</Key>
+    <Value>Category</Value>
+  </Settings>
+  <Settings>
+    <Key>cSubcategory</Key>
+    <Value>Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>cGenre</Key>
+    <Value>Genre</Value>
+  </Settings>
+  <Settings>
+    <Key>cTrackType</Key>
+    <Value>Track Type</Value>
+  </Settings>
+  <Settings>
+    <Key>cFolder</Key>
+    <Value>Folder</Value>
+  </Settings>
+  <Settings>
+    <Key>cEdit</Key>
+    <Value>Edit</Value>
+  </Settings>
+  <Settings>
+    <Key>cDelete</Key>
+    <Value>Delete</Value>
+  </Settings>
+</NewDataSet>

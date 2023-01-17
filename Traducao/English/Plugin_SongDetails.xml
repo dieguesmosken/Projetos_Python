@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Song Details</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Show informations about the playing track.</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>Album</Key>
+    <Value>Album</Value>
+  </Settings>
+  <Settings>
+    <Key>Year</Key>
+    <Value>Year</Value>
+  </Settings>
+  <Settings>
+    <Key>Composer</Key>
+    <Value>Composer</Value>
+  </Settings>
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>Publisher</Value>
+  </Settings>
+  <Settings>
+    <Key>Track</Key>
+    <Value>Track</Value>
+  </Settings>
+  <Settings>
+    <Key>Disc</Key>
+    <Value>Disc</Value>
+  </Settings>
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>Copyright</Value>
+  </Settings>
+
+</NewDataSet>

@@ -1,0 +1,295 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Various playlist styles.</Value>
+  </Settings>
+  <Settings>
+    <Key>butAutoDJ</Key>
+    <Value>AUTODJ</Value>
+  </Settings>
+  <Settings>
+    <Key>butAutoDJ2</Key>
+    <Value>MANUAL</Value>
+  </Settings>
+  <Settings>
+    <Key>butAssist</Key>
+    <Value>ASSISTED</Value>
+  </Settings>
+  <Settings>
+    <Key>butAssist2</Key>
+    <Value>AUTOMATED</Value>
+  </Settings>
+  <Settings>
+    <Key>butInsert</Key>
+    <Value>INSERT</Value>
+  </Settings>
+  <Settings>
+    <Key>butReplace</Key>
+    <Value>REPLACE</Value>
+  </Settings>
+  <Settings>
+    <Key>butClear</Key>
+    <Value>CLEAR</Value>
+  </Settings>
+  <Settings>
+    <Key>butInput</Key>
+    <Value>INPUT</Value>
+  </Settings>
+  <Settings>
+    <Key>txtPlay</Key>
+    <Value>Play</Value>
+  </Settings>
+  <Settings>
+    <Key>txtArtist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>txtTitle</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>txtVT</Key>
+    <Value>Voice Track</Value>
+  </Settings>
+  <Settings>
+    <Key>txtIntro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  <Settings>
+    <Key>txtDuration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>txtEta</Key>
+    <Value>ETA</Value>
+  </Settings>
+  <Settings>
+    <Key>txtDelete</Key>
+    <Value>Delete</Value>
+  </Settings>
+  <Settings>
+    <Key>txtOpenPlaylist</Key>
+    <Value>Open Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>grPlaylistType</Key>
+    <Value>Playlist Options</Value>
+  </Settings>
+  <Settings>
+    <Key>rdRdj</Key>
+    <Value>RadioDJ Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>rdPls</Key>
+    <Value>pls, m3u Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOpenOptions</Key>
+    <Value>Open Options</Value>
+  </Settings>
+  <Settings>
+    <Key>butOpen</Key>
+    <Value>OPEN</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>CANCEL</Value>
+  </Settings>
+  <Settings>
+    <Key>txtSavePlaylist</Key>
+    <Value>Save Playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSavePlaylistName</Key>
+    <Value>Playlist Name</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>SAVE</Value>
+  </Settings>
+  <Settings>
+    <Key>ConfirmationTitle</Key>
+    <Value>Confirmation Needed...</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearConfirmation</Key>
+    <Value>Do you really want to delete the existing playlist?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteConfirmation</Key>
+    <Value>Do you really want to delete this track?</Value>
+  </Settings>
+  <Settings>
+    <Key>txtSettings</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>txtDescription</Key>
+    <Value>Plugin Options</Value>
+  </Settings>
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStyle</Key>
+    <Value>Playlist Style</Value>
+  </Settings>
+  <Settings>
+    <Key>txtStyleCart</Key>
+    <Value>Slot Mode</Value>
+  </Settings>
+  <Settings>
+    <Key>txtStyleList</Key>
+    <Value>List Mode</Value>
+  </Settings>
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtAlbum</Key>
+    <Value>Album</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtYear</Key>
+    <Value>Year</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtComposer</Key>
+    <Value>Composer</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtCopyright</Key>
+    <Value>Copyright</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtPublisher</Key>
+    <Value>Publisher</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtComments</Key>
+    <Value>Comments</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtTrackCD</Key>
+    <Value>Track, CD</Value>
+  </Settings>
+  <Settings>
+    <Key>lbtCountPlayed</Key>
+    <Value>Times Played</Value>
+  </Settings>
+  <Settings>
+    <Key>butAutoDJ_tip</Key>
+    <Value>Enable or disable automatic playlist generation</Value>
+  </Settings>
+  <Settings>
+    <Key>butAssist_tip</Key>
+    <Value>Enable or disable playlist playback auto advance</Value>
+  </Settings>
+  <Settings>
+    <Key>butInsert_tip</Key>
+    <Value>Insert file</Value>
+  </Settings>
+  <Settings>
+    <Key>butReplace_tip</Key>
+    <Value>Replace file</Value>
+  </Settings>
+  <Settings>
+    <Key>butClear_tip</Key>
+    <Value>Clear current list</Value>
+  </Settings>
+  <Settings>
+    <Key>butInput_tip</Key>
+    <Value>Enable or disable audio line in</Value>
+  </Settings>
+  <Settings>
+    <Key>butLoadPlayList_tip</Key>
+    <Value>Open playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>butSavePlayList_tip</Key>
+    <Value>Save playlist</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlStart_tip</Key>
+    <Value>Start of the list</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlUp_tip</Key>
+    <Value>Up</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlDown_tip</Key>
+    <Value>Down</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlEnd_tip</Key>
+    <Value>End of the list</Value>
+  </Settings>
+  <Settings>
+    <Key>butShuffle_tip</Key>
+    <Value>Random</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>Start</Value>
+  </Settings>
+  <Settings>
+    <Key>butCue_tip</Key>
+    <Value>Monitor</Value>
+  </Settings>
+  <Settings>
+    <Key>butDetails_tip</Key>
+    <Value>Details</Value>
+  </Settings>
+  <Settings>
+    <Key>butRemove_tip</Key>
+    <Value>Remove file</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEta_tip</Key>
+    <Value>Estimated playback time</Value>
+  </Settings>
+  <Settings>
+    <Key>lbArtist_tip</Key>
+    <Value>Artist</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitle_tip</Key>
+    <Value>Title</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSweeper_tip</Key>
+    <Value>Sweeper (double-click to set)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVoiceTrack_tip</Key>
+    <Value>Voicetrack (double-click to set)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSubcategory_tip</Key>
+    <Value>Subcategory</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIntro_tip</Key>
+    <Value>Intro</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDuration_tip</Key>
+    <Value>Duration</Value>
+  </Settings>
+</NewDataSet>

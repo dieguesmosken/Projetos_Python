@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- TRANSLATION START --> 
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>File From Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>File From Category or Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbCategory</Key>
+    <Value>Category</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSubcategory</Key>
+    <Value>Subcategory</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbGenre</Key>
+    <Value>Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtAnyGenre</Key>
+    <Value>Any Genre</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbSelMode</Key>
+    <Value>Selection Mode</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType0</Key>
+    <Value>Least Recently Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType1</Key>
+    <Value>Most Recently Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType2</Key>
+    <Value>Least Times Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType3</Key>
+    <Value>Most Times Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType4</Key>
+    <Value>By Priority</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>cbSelType5</Key>
+    <Value>Random</Value>
+  </Settings>
+  
+  <!-- BUTTONS --> 
+  
+  <Settings>
+    <Key>bAddCatTrack</Key>
+    <Value>Add Action</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>RadioDJ Configuration</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions</Key>
+    <Value>OPTIONS</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlugins</Key>
+    <Value>PLUGINS</Value>
+  </Settings>
+  <Settings>
+    <Key>butRotations</Key>
+    <Value>TRACK ROTATION</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportTrack</Key>
+    <Value>TRACK IMPORT</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFolder</Key>
+    <Value>DIRECTORY IMPORT</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategories</Key>
+    <Value>CATEGORIES</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout</Key>
+    <Value>About...</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Close</Value>
+  </Settings>
+  <Settings>
+    <Key>butShortcuts</Key>
+    <Value>SHORTCUTS</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlaylists</Key>
+    <Value>PLAYLISTS</Value>
+  </Settings>
+  <Settings>
+    <Key>butUsers</Key>
+    <Value>USERS</Value>
+  </Settings>
+  <Settings>
+    <Key>butStyles</Key>
+    <Value>COLOR EDITOR</Value>
+  </Settings>
+  <Settings>
+    <Key>butEvents</Key>
+    <Value>EVENTS</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions_tip</Key>
+    <Value>Change the main options of the program</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions-tip</Key>
+    <Value>Change the main options of the program</Value>
+  </Settings>
+  <Settings>
+    <Key>butRotations-tip</Key>
+    <Value>Create or modify track rotation</Value>
+  </Settings>
+  <Settings>
+    <Key>butEvents-tip</Key>
+    <Value>Create or modify events</Value>
+  </Settings>
+  <Settings>
+    <Key>butShortcuts-tip</Key>
+    <Value>Create or modify program keyboard shortcuts</Value>
+  </Settings>
+  <Settings>
+    <Key>butUsers-tip</Key>
+    <Value>Create or modify program users</Value>
+  </Settings>
+  <Settings>
+    <Key>butStyles-tip</Key>
+    <Value>Change curent color scheme settings</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportTrack-tip</Key>
+    <Value>Import Single Track</Value>
+  </Settings>
+  <Settings>
+    <Key>butImportFolder-tip</Key>
+    <Value>Import folders to the program</Value>
+  </Settings>
+  <Settings>
+    <Key>butCategories-tip</Key>
+    <Value>Create or modify categories</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlaylists-tip</Key>
+    <Value>Manage database playlists</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlugins-tip</Key>
+    <Value>Program plugins list</Value>
+  </Settings>
+  <Settings>
+    <Key>butAbout-tip</Key>
+    <Value>About the program</Value>
+  </Settings>
+  <Settings>
+    <Key>butClose-tip</Key>
+    <Value>Close Window</Value>
+  </Settings>
+</NewDataSet>

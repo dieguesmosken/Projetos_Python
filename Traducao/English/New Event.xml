@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Add or Modify Events</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Details.Text</Key>
+    <Value>Details</Value>
+  </Settings>
+  <Settings>
+    <Key>Label.EventName.Text</Key>
+    <Value>Event Name</Value>
+  </Settings>
+  <Settings>
+    <Key>Label.SelectAction.Text</Key>
+    <Value>Select Action</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Enabled.Text</Key>
+    <Value>Enabled</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Days.Text</Key>
+    <Value>Days</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Mon.Text</Key>
+    <Value>MON</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Tue.Text</Key>
+    <Value>TUE</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Wed.Text</Key>
+    <Value>WED</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Thu.Text</Key>
+    <Value>THU</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Fri.Text</Key>
+    <Value>FRI</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Sat.Text</Key>
+    <Value>SAT</Value>
+  </Settings>
+  <Settings>
+    <Key>Check.Sun.Text</Key>
+    <Value>SUN</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.SelectedDate.Text</Key>
+    <Value>Only on Date</Value>
+  </Settings>
+  <Settings>
+    <Key>Label.SelectDate.Text</Key>
+    <Value>Select Date</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Timing.Text</Key>
+    <Value>Hour</Value>
+  </Settings>
+  <Settings>
+    <Key>Group.Actions.Text</Key>
+    <Value>Event Actions</Value>
+  </Settings>
+  <Settings>
+    <Key>Label.EventTime.Text</Key>
+    <Value>Event Hour</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.AddEvent.Text</Key>
+    <Value>Add Event</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.AddEvent.Text2</Key>
+    <Value>Save Event</Value>
+  </Settings>
+  <Settings>
+    <Key>Column.EventActions.Text</Key>
+    <Value>Event Actions</Value>
+  </Settings>
+  <Settings>
+    <Key>Error.EventName.Text</Key>
+    <Value>Please enter the name of the event!</Value>
+  </Settings>
+  <Settings>
+    <Key>Error.EventTime.Text</Key>
+    <Value>Please enter the hour of the event!</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.DeleteEvent.Text</Key>
+    <Value>Delete Event</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.Cancel.Text</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.NoAction.Text</Key>
+    <Value>This event has no actions!</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.NoAction.Title</Key>
+    <Value>Event Actions?</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.EventAdded.Text</Key>
+    <Value>Event added successfully!</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.EventAdded.Title</Key>
+    <Value>Done...</Value>
+  </Settings>
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Text</Key>
+    <Value>Do you really want to delete the event?</Value>
+  </Settings>
+  <Settings>
+    <Key>Confirmation.DeleteEvent.Title</Key>
+    <Value>Event Delete</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.EventSaved.Text</Key>
+    <Value>Event saved successfully!</Value>
+  </Settings>
+  <Settings>
+    <Key>MsgBox.EventSaved.Title</Key>
+    <Value>Saved...</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEvType.Text</Key>
+    <Value>Event Type</Value>
+  </Settings>
+  <Settings>
+    <Key>grHours.Text</Key>
+    <Value>Hours</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType1</Key>
+    <Value>One Time Only</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType2</Key>
+    <Value>Repeat by Day</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType3</Key>
+    <Value>Repeat by Day and Hour</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType4</Key>
+    <Value>Manual Event</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType5</Key>
+    <Value>Start-up Event</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType6</Key>
+    <Value>Repeat by Date</Value>
+  </Settings>
+  <Settings>
+    <Key>cbEventType7</Key>
+    <Value>Repeat by Date and Hour</Value>
+  </Settings>
+  <Settings>
+    <Key>lbHourIgnored.Text</Key>
+    <Value>Hour will be ignored!</Value>
+  </Settings>
+  <Settings>
+    <Key>lbEventCategory</Key>
+    <Value>Event Category</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.SelectTrack.Text</Key>
+    <Value>Select File</Value>
+  </Settings>
+  <Settings>
+    <Key>Label.Category.Text</Key>
+    <Value>Select Category</Value>
+  </Settings>
+  <Settings>
+    <Key>Button.AddAction.Text</Key>
+    <Value>Add Action to List</Value>
+  </Settings>
+</NewDataSet>

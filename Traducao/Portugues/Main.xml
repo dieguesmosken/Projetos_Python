@@ -1,0 +1,90 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>butOptions</Key>
+    <Value>OPÇÕES</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTimeTop</Key>
+    <Value>TEMPO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTop</Key>
+    <Value>RESTANTE</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTop</Key>
+    <Value>DECORREU</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTimeTop</Key>
+    <Value>TOTAL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbIntroTop</Key>
+    <Value>INTRODUÇÃO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOutroTop</Key>
+    <Value>OUTRO</Value>
+  </Settings>
+  <Settings>
+    <Key>lbClock</Key>
+    <Value>HORA</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>A pausa</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>Pare</Value>
+  </Settings>
+  <Settings>
+    <Key>butRestart_tip</Key>
+    <Value>Reiniciar</Value>
+  </Settings>
+  <Settings>
+    <Key>butLoop_tip</Key>
+    <Value>Repita</Value>
+  </Settings>
+  <Settings>
+    <Key>pbAlbumArt_tip</Key>
+    <Value>Imagem</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPlayingTitle_tip</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPlayingArtist_tip</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAlbumYear_tip</Key>
+    <Value>Álbum/Ano</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRotation_tip</Key>
+    <Value>Rotação da Pista Atual</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSweeperCategory_tip</Key>
+    <Value>Categoria de varredor ativo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlayInfo_tip</Key>
+    <Value>Varredor Ativo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbOverlayVT_tip</Key>
+    <Value>Faixa de voz ativa</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDate_tip</Key>
+    <Value>Data/hora atual</Value>
+  </Settings>
+</NewDataSet>

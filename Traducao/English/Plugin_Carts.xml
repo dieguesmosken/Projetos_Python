@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Instant Players</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Instant players plugin</Value>
+  </Settings>
+  <Settings>
+    <Key>grOptions</Key>
+    <Value>Options</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSeparate</Key>
+    <Value>As Separate Window</Value>
+  </Settings>
+  <Settings>
+    <Key>lbZone</Key>
+    <Value>Plugin Zone</Value>
+  </Settings>
+  <Settings>
+    <Key>lbColumns</Key>
+    <Value>Columns</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRows</Key>
+    <Value>Rows</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSepColumns</Key>
+    <Value>Columns (separate window)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSepRows</Key>
+    <Value>Rows (separate window)</Value>
+  </Settings>
+  <Settings>
+    <Key>butOK</Key>
+    <Value>Save</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Save</Key>
+    <Value>Save this instant players set</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Delete</Key>
+    <Value>Delete this instant players set</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Fade</Key>
+    <Value>Fade out on stop</Value>
+  </Settings>
+  <Settings>
+    <Key>butFade</Key>
+    <Value>FADE</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Continuous</Key>
+    <Value>Play one instant player at a time</Value>
+  </Settings>
+  <Settings>
+    <Key>butContinuous</Key>
+    <Value>SINGLE</Value>
+  </Settings>
+  <Settings>
+    <Key>tip_Stop</Key>
+    <Value>Stop instant player</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteCartMsg</Key>
+    <Value>Do you really want to delete this instant players set?</Value>
+  </Settings>
+  <Settings>
+    <Key>DeleteCartTitle</Key>
+    <Value>Confirmation Needed!</Value>
+  </Settings>
+  <Settings>
+    <Key>LoadCart</Key>
+    <Value>Load Instant Player</Value>
+  </Settings>
+  <Settings>
+    <Key>ClearCart</Key>
+    <Value>Delete Instant Player</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuLoad</Key>
+    <Value>Load Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuClear</Key>
+    <Value>Delete Sweeper</Value>
+  </Settings>
+  <Settings>
+    <Key>crtMenuColor</Key>
+    <Value>Color</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopDurationDuration</Key>
+    <Value>Stop Fade Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>rdNewCart</Key>
+    <Value>New Set</Value>
+  </Settings>
+  <Settings>
+    <Key>rdReplaceCart</Key>
+    <Value>Replace Set</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  <Settings>
+    <Key>SaveCartTitle</Key>
+    <Value>Save Set</Value>
+  </Settings>
+</NewDataSet>

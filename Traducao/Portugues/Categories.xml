@@ -1,0 +1,40 @@
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle.Text</Key>
+    <Value>Gerenciador de Categorias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Category.Text</Key>
+    <Value>Categorias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Subcategory.Text</Key>
+    <Value>Subcategorias</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Group.Genre.Text</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Rename.Text</Key>
+    <Value>Renomear</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Button.Ok.Text</Key>
+    <Value>OK</Value>
+  </Settings>
+  
+</NewDataSet>

@@ -1,0 +1,74 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginTitle</Key>
+    <Value>Notas</Value>
+  </Settings>
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Editor de texto para RadioDJ</Value>
+  </Settings>
+  <Settings>
+    <Key>tlStripNew</Key>
+    <Value>Novo Documento</Value>
+  </Settings>
+  <Settings>
+    <Key>tsOpen</Key>
+    <Value>Abrir Documento</Value>
+  </Settings>
+  <Settings>
+    <Key>tsSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>butSaveAs</Key>
+    <Value>Salvar como</Value>
+  </Settings>
+  <Settings>
+    <Key>tsUndo</Key>
+    <Value>Desfazer</Value>
+  </Settings>
+  <Settings>
+    <Key>tsRedo</Key>
+    <Value>refazer</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCopy</Key>
+    <Value>cópia de</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCut</Key>
+    <Value>Corte</Value>
+  </Settings>
+  <Settings>
+    <Key>tsPaste</Key>
+    <Value>Colar</Value>
+  </Settings>
+  <Settings>
+    <Key>tsBold</Key>
+    <Value>Negrito</Value>
+  </Settings>
+  <Settings>
+    <Key>tsItalic</Key>
+    <Value>itálico</Value>
+  </Settings>
+  <Settings>
+    <Key>tsUnderline</Key>
+    <Value>Sublinhado</Value>
+  </Settings>
+  <Settings>
+    <Key>tsLeft</Key>
+    <Value>Alinhar à Esquerda</Value>
+  </Settings>
+  <Settings>
+    <Key>tsCenter</Key>
+    <Value>Alinhar ao centro</Value>
+  </Settings>
+  <Settings>
+    <Key>tsRight</Key>
+    <Value>Alinhar à direita</Value>
+  </Settings>
+</NewDataSet>

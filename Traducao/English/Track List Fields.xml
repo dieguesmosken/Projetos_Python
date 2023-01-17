@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Title</Key>
+    <Value>Title</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Album</Key>
+    <Value>Album</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Intro</Key>
+    <Value>Intro</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Duration</Key>
+    <Value>Duration</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Bpm</Key>
+    <Value>Bpm</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>OriginalArtist</Key>
+    <Value>Original Artist</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Composer</Key>
+    <Value>Composer</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Year</Key>
+    <Value>Year</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>Publisher</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ID</Key>
+    <Value>ID</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Path</Key>
+    <Value>Path</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Enabled</Key>
+    <Value>Enabled</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Weight</Key>
+    <Value>Priority</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TrackNo</Key>
+    <Value>Track #</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DiscNo</Key>
+    <Value>Disc #</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DatePlayed</Key>
+    <Value>Date Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ArtistPlayed</Key>
+    <Value>Artist Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumPlayed</Key>
+    <Value>Album Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>Copyright</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Isrc</Key>
+    <Value>Isrc</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumArt</Key>
+    <Value>Album Art</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>CountPlayed</Key>
+    <Value>Count Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartDate</Key>
+    <Value>Start Date</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EndDate</Key>
+    <Value>End Date</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateAdded</Key>
+    <Value>Date Added</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Mood</Key>
+    <Value>Mood</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Gender</Key>
+    <Value>Gender</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Language</Key>
+    <Value>Language</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Rating</Key>
+    <Value>Rating</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TitlePlayed</Key>
+    <Value>Title Played</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateModified</Key>
+    <Value>Date Modified</Value>
+  </Settings>
+  
+</NewDataSet>

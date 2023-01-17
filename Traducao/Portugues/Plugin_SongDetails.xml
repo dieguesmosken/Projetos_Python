@@ -1,0 +1,54 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Detalhes da música</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Mostrar informações sobre a faixa em reprodução.</Value>
+  </Settings>
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  <Settings>
+    <Key>Title</Key>
+    <Value>Título</Value>
+  </Settings>
+  <Settings>
+    <Key>Album</Key>
+    <Value>Álbum</Value>
+  </Settings>
+  <Settings>
+    <Key>Year</Key>
+    <Value>Ano</Value>
+  </Settings>
+  <Settings>
+    <Key>Composer</Key>
+    <Value>Compositor</Value>
+  </Settings>
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>Editor</Value>
+  </Settings>
+  <Settings>
+    <Key>Track</Key>
+    <Value>Acompanhar</Value>
+  </Settings>
+  <Settings>
+    <Key>Disc</Key>
+    <Value>Disco</Value>
+  </Settings>
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>direito autoral</Value>
+  </Settings>
+
+</NewDataSet>

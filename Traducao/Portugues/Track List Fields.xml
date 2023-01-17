@@ -1,0 +1,167 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Artist</Key>
+    <Value>Artista</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Title</Key>
+    <Value>Título</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Album</Key>
+    <Value>Álbum</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Intro</Key>
+    <Value>Introdução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Duration</Key>
+    <Value>Duração</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Bpm</Key>
+    <Value>bpm</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>OriginalArtist</Key>
+    <Value>Artista Original</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Composer</Key>
+    <Value>Compositor</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Year</Key>
+    <Value>Ano</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Publisher</Key>
+    <Value>Editor</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ID</Key>
+    <Value>EU IRIA</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Path</Key>
+    <Value>Caminho</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Enabled</Key>
+    <Value>Habilitado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Weight</Key>
+    <Value>Prioridade</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TrackNo</Key>
+    <Value>Track #</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DiscNo</Key>
+    <Value>Disc #</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DatePlayed</Key>
+    <Value>Data de reprodução</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ArtistPlayed</Key>
+    <Value>Artista tocado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumPlayed</Key>
+    <Value>Álbum tocado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Copyright</Key>
+    <Value>direito autoral</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Isrc</Key>
+    <Value>isrc</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>AlbumArt</Key>
+    <Value>Arte do álbum</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>CountPlayed</Key>
+    <Value>Contagem de jogadas</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>StartDate</Key>
+    <Value>Data de início</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>EndDate</Key>
+    <Value>Data final</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateAdded</Key>
+    <Value>data adicionada</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Mood</Key>
+    <Value>Humor</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Gender</Key>
+    <Value>Gênero</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Language</Key>
+    <Value>Linguagem</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>Rating</Key>
+    <Value>Avaliação</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>TitlePlayed</Key>
+    <Value>Título jogado</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>DateModified</Key>
+    <Value>Data modificada</Value>
+  </Settings>
+  
+</NewDataSet>

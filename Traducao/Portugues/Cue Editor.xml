@@ -1,0 +1,92 @@
+<NewDataSet>
+
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Editor CUE</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>grOperations</Key>
+    <Value>OPERAÇÕES</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>editCue</Key>
+    <Value>Modo de edição</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>grFading</Key>
+    <Value>CONFIGURAÇÕES DE FADE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeIn</Key>
+    <Value>Aparecimento gradual</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbFadeOut</Key>
+    <Value>Desaparecer</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>grCustomSettings</Key>
+    <Value>CONFIGURAÇÕES PERSONALIZADAS</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbStartLevelThr</Key>
+    <Value>Limite inicial</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbNextStart</Key>
+    <Value>Limite de mistura</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbEndLevel</Key>
+    <Value>Limiar final</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butCustSet</Key>
+    <Value>APLICAR CONFIGURAÇÕES</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefSet</Key>
+    <Value>APLICAR CONFIGURAÇÕES PADRÃO</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butDefault</Key>
+    <Value>SALVE COMO PADRÃO</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>bSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  
+  <Settings>
+    <Key>bCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+</NewDataSet>

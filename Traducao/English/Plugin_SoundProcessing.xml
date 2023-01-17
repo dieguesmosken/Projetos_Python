@@ -1,0 +1,123 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Audio Processing</Value>
+  </Settings>
+  <Settings>
+    <Key>grEqualizer</Key>
+    <Value>10 Band Equalizer</Value>
+  </Settings>
+  <Settings>
+    <Key>ckEqualizer</Key>
+    <Value>Enable</Value>
+  </Settings>
+  <Settings>
+    <Key>lbAgcPreset</Key>
+    <Value>Automatic Gain Control (AGC) Preset</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset0</Key>
+    <Value>Disabled</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset1</Key>
+    <Value>Hard</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset2</Key>
+    <Value>Medium</Value>
+  </Settings>
+  <Settings>
+    <Key>AgcPreset3</Key>
+    <Value>Soft</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCompressorPreset</Key>
+    <Value>Sound Compressor Preset</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset0</Key>
+    <Value>Disabled</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset1</Key>
+    <Value>Default</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset2</Key>
+    <Value>Hard</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset3</Key>
+    <Value>Hard 2</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset4</Key>
+    <Value>Hard Commercial</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset5</Key>
+    <Value>Medium</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset6</Key>
+    <Value>Soft</Value>
+  </Settings>
+  <Settings>
+    <Key>CompressorPreset7</Key>
+    <Value>Soft 2</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Save</Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancel</Value>
+  </Settings>
+  <Settings>
+    <Key>grCompressor</Key>
+    <Value>Compressor Audio</Value>
+  </Settings>
+  <Settings>
+    <Key>grAGC</Key>
+    <Value>AGC</Value>
+  </Settings>
+  <Settings>
+    <Key>grVolume</Key>
+    <Value>In Chain Volume</Value>
+  </Settings>
+  <Settings>
+    <Key>lbVolume</Key>
+    <Value>Volume</Value>
+  </Settings>
+  <Settings>
+    <Key>lbMuteMax</Key>
+    <Value>0=mute, 100=max</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCompByPreset</Key>
+    <Value>By Preset</Value>
+  </Settings>
+  <Settings>
+    <Key>rdCompCustom</Key>
+    <Value>Custom Values</Value>
+  </Settings>
+  <Settings>
+    <Key>grStereoEnhancer</Key>
+    <Value>Stereo Enhancer</Value>
+  </Settings>
+  <Settings>
+    <Key>grStereoAmount</Key>
+    <Value>Level</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStereoItem</Key>
+    <Value>1=Original Level</Value>
+  </Settings>
+</NewDataSet>

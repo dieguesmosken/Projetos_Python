@@ -1,0 +1,238 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Exportação de metadados</Value>
+  </Settings>
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Agora jogando Exportador de informações</Value>
+  </Settings>
+  <Settings>
+    <Key>grToFile</Key>
+    <Value>Exportar para arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTargetFile</Key>
+    <Value>Arquivo de destino</Value>
+  </Settings>
+  <Settings>
+    <Key>ckFile</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>grToWeb</Key>
+    <Value>Exportar para Web</Value>
+  </Settings>
+  <Settings>
+    <Key>lbURL</Key>
+    <Value>URL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Senha</Value>
+  </Settings>
+  <Settings>
+    <Key>ckWeb</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>grSerial</Key>
+    <Value>Exportar para Serial</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTemplate</Key>
+    <Value>Arquivo de modelo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbSerialPort</Key>
+    <Value>Porta serial</Value>
+  </Settings>
+  <Settings>
+    <Key>lbBaud</Key>
+    <Value>Taxa de transmissão</Value>
+  </Settings>
+  <Settings>
+    <Key>lbHandshake</Key>
+    <Value>Aperto de mão</Value>
+  </Settings>
+  <Settings>
+    <Key>txtSweeper</Key>
+    <Value>vassoura</Value>
+  </Settings>
+  <Settings>
+    <Key>lbParity</Key>
+    <Value>Paridade</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStopBits</Key>
+    <Value>Bits de parada</Value>
+  </Settings>
+  <Settings>
+    <Key>lbDataBits</Key>
+    <Value>Bits de dados</Value>
+  </Settings>
+  <Settings>
+    <Key>ckDtr</Key>
+    <Value>Ativar DTR</Value>
+  </Settings>
+  <Settings>
+    <Key>ckRTS</Key>
+    <Value>Ativar RTS</Value>
+  </Settings>
+  <Settings>
+    <Key>ckSerial</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  <Settings>
+    <Key>butCancel</Key>
+    <Value>Cancelar</Value>
+  </Settings>
+  <Settings>
+    <Key>grCustomTitle</Key>
+    <Value>Título personalizado</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTitle</Key>
+    <Value>Novo título (campo vazio para título automático)</Value>
+  </Settings>
+  <Settings>
+    <Key>butUpdateCustomTitle</Key>
+    <Value>Atualizar título</Value>
+  </Settings>
+  <Settings>
+    <Key>grEncoding</Key>
+    <Value>Codificação de Texto</Value>
+  </Settings>
+  <Settings>
+    <Key>lbFileTemplate</Key>
+    <Value>Arquivo de modelo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbCustomPost</Key>
+    <Value>Dados personalizados</Value>
+  </Settings>
+  <Settings>
+    <Key>lbWebMethodExport</Key>
+    <Value>Método de exportação</Value>
+  </Settings>
+  <Settings>
+    <Key>ckActivateWebExport</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>grStreamServer</Key>
+    <Value>Opções do servidor de streaming</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServer</Key>
+    <Value>URL</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerUser</Key>
+    <Value>Do utilizador</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerPassword</Key>
+    <Value>Senha</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamServerType</Key>
+    <Value>Tipo de servidor</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStreamServerEnabled</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>ckStreamServerActive</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>grNetwork</Key>
+    <Value>Opções de exportação de rede</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetIP</Key>
+    <Value>Endereço (IP)</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetProtocol</Key>
+    <Value>Protocolo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNetTemplate</Key>
+    <Value>Arquivo de modelo</Value>
+  </Settings>
+  <Settings>
+    <Key>lbNtPort</Key>
+    <Value>Porta</Value>
+  </Settings>
+  <Settings>
+    <Key>ckNetEnable</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>ckActivateNetworkExport</Key>
+    <Value>Habilitar</Value>
+  </Settings>
+  <Settings>
+    <Key>TabCustomTitle</Key>
+    <Value>Título personalizado</Value>
+  </Settings>
+  <Settings>
+    <Key>TabFileExport</Key>
+    <Value>Arquivo</Value>
+  </Settings>
+  <Settings>
+    <Key>TabWebExport</Key>
+    <Value>Rede</Value>
+  </Settings>
+  <Settings>
+    <Key>TabStreamServer</Key>
+    <Value>servidor de streaming</Value>
+  </Settings>
+  <Settings>
+    <Key>TabNetwork</Key>
+    <Value>Rede</Value>
+  </Settings>
+  <Settings>
+    <Key>TabSerialExport</Key>
+    <Value>Serial</Value>
+  </Settings>
+  <Settings>
+    <Key>TabFilters</Key>
+    <Value>Filtros</Value>
+  </Settings>
+  <Settings>
+    <Key>grFilters</Key>
+    <Value>Exportar apenas tipos selecionados</Value>
+  </Settings>
+  <Settings>
+    <Key>StreamID</Key>
+    <Value>ID da transmissão</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInPartenerID</Key>
+    <Value>ID do parceiro</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInPartenerKey</Key>
+    <Value>Chave do parceiro</Value>
+  </Settings>
+  <Settings>
+    <Key>TuneInID</Key>
+    <Value>EU IRIA</Value>
+  </Settings>
+  <Settings>
+    <Key>lbStreamingServerCustomDta</Key>
+    <Value>Dados personalizados</Value>
+  </Settings>
+</NewDataSet>

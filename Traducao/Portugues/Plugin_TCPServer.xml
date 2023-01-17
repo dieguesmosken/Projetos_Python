@@ -1,0 +1,69 @@
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>pt-BR</Value>
+  </Settings>
+  
+   
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Servidor TCP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>PluginDescription</Key>
+    <Value>Permite controlar o programa usando a rede local ou internet.</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>topLabel</Key>
+    <Value>Servidor TCP</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>grSettings</Key>
+    <Value>Configurações do servidor</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbIP</Key>
+    <Value>Endereço de IP:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPort</Key>
+    <Value>Porta:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>lbPassword</Key>
+    <Value>Senha:</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>ckAutoStart</Key>
+    <Value>Começo automático</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStop</Key>
+    <Value>PARE</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>txtStart</Key>
+    <Value>COMEÇAR</Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butSave</Key>
+    <Value>Salve </Value>
+  </Settings>
+  
+  <Settings>
+    <Key>butClose</Key>
+    <Value>Perto</Value>
+  </Settings>
+  
+</NewDataSet>

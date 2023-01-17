@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+  
+  <Settings>
+    <Key>MainTitle</Key>
+    <Value>Aux Players</Value>
+  </Settings>
+  <Settings>
+    <Key>butStop_tip</Key>
+    <Value>Stop</Value>
+  </Settings>
+  <Settings>
+    <Key>butPlay_tip</Key>
+    <Value>Play</Value>
+  </Settings>
+  <Settings>
+    <Key>butLoop_tip</Key>
+    <Value>Repeat</Value>
+  </Settings>
+  <Settings>
+    <Key>lbElapsedTime_tip</Key>
+    <Value>Elapsed Time</Value>
+  </Settings>
+  <Settings>
+    <Key>lbRemainingTime_tip</Key>
+    <Value>Remaining Time</Value>
+  </Settings>
+  <Settings>
+    <Key>lbTotalTime_tip</Key>
+    <Value>Duration</Value>
+  </Settings>
+  <Settings>
+    <Key>butADD_tip</Key>
+    <Value>Add</Value>
+  </Settings>
+  <Settings>
+    <Key>menOpenDBFile</Key>
+    <Value>Add from database</Value>
+  </Settings>
+  <Settings>
+    <Key>menuOpenFile</Key>
+    <Value>Open File</Value>
+  </Settings>
+  <Settings>
+    <Key>menuClearPlayer</Key>
+    <Value>Close File</Value>
+  </Settings>
+  <Settings>
+    <Key>MainDescription</Key>
+    <Value>Playere suplimentare</Value>
+  </Settings>
+
+</NewDataSet>
