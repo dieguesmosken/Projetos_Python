@@ -61,7 +61,6 @@ for file_name in os.listdir(input_path):
                     try:
                         # traduz o texto
                         translated_value = traduzir_texto(value.text, "en", "pt-BR", api_key)
-                        #translated_value = traduzir_texto(unescape(value.text), "en", "pt-BR", api_key)
                         value.text = translated_value
                     except Exception as e:
                         # exibe a mensagem de erro
