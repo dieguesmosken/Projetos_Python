@@ -1,7 +1,6 @@
 import os
 import json
 from mutagen.id3 import ID3
-from datetime import datetime
 
 music_directory = "music"
 
