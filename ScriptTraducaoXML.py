@@ -1,3 +1,4 @@
+import sys
 import xml.etree.ElementTree as ET
 import requests
 import os
@@ -24,7 +25,7 @@ input_path = input("Digite o caminho da pasta de entrada: ")
 if not os.path.exists(input_path):
     # exibe a mensagem de erro
     print(f"O caminho {input_path} não existe.")
-    exit()
+    sys.exit()
 
 # Criar pasta de saída se não existir
 if not os.path.exists(output_path):
