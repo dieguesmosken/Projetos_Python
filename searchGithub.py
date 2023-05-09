@@ -7,7 +7,7 @@ def search_google(filter_url):
     unique_links = set()
     start = 1
     while start <= 100:
-    
+
         query = 'https://www.googleapis.com/customsearch/v1?key=AIzaSyCNheU4QFa_Y-C_4ZFBnylG9Upp--EZ6EA&cx=913dd1a9015d64921&q=' + query + '&start=' + str(start)
         response = requests.get(query)
         data = json.loads(response.text)
