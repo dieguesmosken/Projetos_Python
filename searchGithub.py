@@ -33,4 +33,3 @@ def search_google(filter_url):
 
 filter_url = input("Insira a palavra a ser filtrado: ")
 search_google(filter_url)
-#search_google("Matheus Mösken Diegues")

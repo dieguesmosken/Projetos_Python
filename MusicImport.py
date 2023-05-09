@@ -59,10 +59,6 @@ def extract_image(file_path, image_folder):
 music_files = find_music_files(music_directory)
 print("Buscando arquivos de música...")
 
-# image_folder = "music/images"
-# print("Extraindo imagens das músicas...")
-# for music_file in music_files:
-#     music_file = extract_image(music_file["path"], image_folder)
 
 # Salvando resultados em arquivo json
 json_file_name = "resultados/json/music/musicas.json"
