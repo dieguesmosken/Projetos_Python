@@ -30,8 +30,8 @@ if not os.path.exists(input_path):
 # Criar pasta de saída se não existir
 if not os.path.exists(output_path):
     os.makedirs(output_path)
-    
-        
+
+
 # Traduzir todos os arquivos XML na pasta de entrada
 for file_name in os.listdir(input_path):
     if file_name.endswith(".xml"):
@@ -48,7 +48,7 @@ for file_name in os.listdir(input_path):
             # exibe a mensagem de erro
             print(f"Erro lendo arquivo {file_name}")
             continue
-        
+
         root = tree.getroot()
 
         # Traduzir valores
