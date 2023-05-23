@@ -15,23 +15,23 @@
 * [Aula 08](https://gist.github.com/dieguesmosken/0beb682f4d5faca3b63c87d3fa1165f2) >> Dia 17/05
 * [Aula 09](https://gist.github.com/dieguesmosken/ceace13fe0c809c905be25ad500469c7) >> Dia 18/05
 * [Aula 10](https://gist.github.com/dieguesmosken/0e6c20054e1c0311bf7ae260f1cc80f1) >> Dia 19/05
-* Aula 11 >> Dia 20/05
-* Aula 12
-* Aula 13
-* Aula 14
-* Aula 15
-* Aula 16
-* Aula 17
-* Aula 18
-* Aula 19
-* Aula 20
-* Aula 21
-* Aula 22
-* Aula 23
-* Aula 24
-* Aula 25
-* Aula 26
-* Aula 27
-* Aula 28
-* Aula 29
-* Aula 30
+* [Aula 11](https://gist.github.com/dieguesmosken/7fb40376a4f8305c124dd5f808baf759) >> Dia 22/05
+* Aula 12 >> Dia 23/05
+* Aula 13 >> Dia 24/05
+* Aula 14 >> Dia 25/05
+* Aula 15 >> Dia 26/05
+* Aula 16 >> Dia 29/05
+* Aula 17 >> Dia 30/05
+* Aula 18 >> Dia 31/05
+* Aula 19 >> Dia 01/06
+* Aula 20 >> Dia 02/06
+* Aula 21 >> Dia 05/06 
+* Aula 22 >> Dia 06/06
+* Aula 23 >> Dia 07/06
+* Aula 24 >> Dia 08/06
+* Aula 25 >> Dia 09/06
+* Aula 26 >> Dia 12/06
+* Aula 27 >> Dia 13/06
+* Aula 28 >> Dia 14/06
+* Aula 29 >> Dia 15/06
+* Aula 30 >> Dia 16/06
