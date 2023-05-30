@@ -18,6 +18,8 @@
 * [Aula 11](https://gist.github.com/dieguesmosken/7fb40376a4f8305c124dd5f808baf759) >> Dia 22/05
 * [Aula 12](https://gist.github.com/dieguesmosken/3e0249827b6e2338347d111946e64fce) >> Dia 23/05 
 * >**Em Andamento**
+* [Aula 12](https://colab.research.google.com/drive/12S5r5SC2rcUWe3dj4GqrMNB_FuaW_73l)
+* >**(Giovanna)**
 * [Aula 13](https://colab.research.google.com/drive/1EqOLHeabJOVzOBl_oY8uKw7o6vPMSyG2) >> Dia 24/05 
 * >**Em Branco**
 * [Aula 14](https://colab.research.google.com/drive/1K1wj48_K-9xaVDyaNIP9zTdudOn0k5_u) >> Dia 25/05 
