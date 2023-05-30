@@ -26,9 +26,9 @@
 * >**Em Branco**
 * [Aula 15](https://colab.research.google.com/drive/1a-GB7Bo5qfKnCr_iz6CCEiMPm8TlFM9i) >> Dia 26/05 
 * >**Em Branco**
-* [Aula 16](https://colab.research.google.com/drive/1YHfVLreqz6nUaMuYR8UEBFGgu8U3kuuZ#scrollTo=7N6RsdGP0MuH) >> Dia 29/05
+* [Aula 16](https://gist.github.com/dieguesmosken/634b6d33cda89e6497350ffde620300c) >> Dia 29/05
+* [Aula 17](https://colab.research.google.com/drive/1QVQafpCC9ZxyjNr0uyDK6dbOl1snsWsN) >> Dia 30/05
 * >**Em Andamento**
-* Aula 17 >> Dia 30/05
 * Aula 18 >> Dia 31/05
 * Aula 19 >> Dia 01/06
 * Aula 20 >> Dia 02/06
