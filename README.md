@@ -1,4 +1,4 @@
-# Projetos_Python / 
+[![Python application](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/python-app.yml/badge.svg)](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/python-app.yml)
 ---
 ## Aulas Python Senai Registro
 
