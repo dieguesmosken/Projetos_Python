@@ -1,6 +1,7 @@
 [![Python application](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/python-app.yml/badge.svg)](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/python-app.yml)
 ---
 ## Aulas Python Senai Registro
+[![Deploy GitHub Pages](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/dieguesmosken/Projetos_Python/actions/workflows/jekyll-gh-pages.yml)
 
 > Links dos exercicios de cada aula
 
