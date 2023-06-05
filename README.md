@@ -33,8 +33,9 @@
 * >**Em Andamento**
 * [Aula 18](https://gist.github.com/dieguesmosken/7911031610724356e5ee18d6e58cfb66) >> Dia 31/05
 * >**Web Scrapping**
-* Aula 19 >> Dia 01/06
-* Aula 20 >> Dia 02/06
+* [Aula 19](https://gist.github.com/dieguesmosken/4dcfa2f78bde0596bb7d80bff2a92a4a) >> Dia 01/06
+* [Aula 20](https://gist.github.com/dieguesmosken/134ff1db655b53fe46b4af570719300b) >> Dia 02/06
+* >**Jogo de dominó**
 * Aula 21 >> Dia 05/06 
 * Aula 22 >> Dia 06/06
 * Aula 23 >> Dia 07/06
