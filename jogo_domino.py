@@ -50,8 +50,6 @@ def jogar_peca(jogador):
                 print("Nenhuma peça pode ser jogada.")
                 break
 '''
-# verifica_mao()
-#verifica_peca(jogador, pecas, peca_escolhida)
 def verifica_mao(jogador_atual, mesa, peca_escolhida):
     #ver o começo da trilha
     if mesa[0][0] in list(map(lambda i: i[0], jogador_atual)) or \
@@ -109,7 +107,6 @@ def iniciar_jogo():
             else:
                 peca_escolhida = jogador_atual[opcao - 1]
                 print("Peça escolhida", peca_escolhida,"\n")
-                #verifica_peca(jogador, pecas, peca_escolhida)
                 verifica_mao(jogador_atual, mesa, peca_escolhida)
                 pulou_vez = False
                 if len(jogador_atual) == 0:
