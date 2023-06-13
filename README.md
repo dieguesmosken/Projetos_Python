@@ -37,10 +37,9 @@
 * Aula 21 >> Dia 05/06 
 * Aula 22 >> Dia 06/06
 * Aula 23 >> Dia 07/06
-* Aula 24 >> Dia 08/06
-* Aula 25 >> Dia 09/06
-* Aula 26 >> Dia 12/06
-* Aula 27 >> Dia 13/06
-* Aula 28 >> Dia 14/06
-* Aula 29 >> Dia 15/06
-* Aula 30 >> Dia 16/06
+* Aula 24 >> Dia 12/06
+* Aula 25 >> Dia 13/06
+> resolução dominó
+* Aula 26 >> Dia 14/06
+* Aula 27 >> Dia 15/06
+
