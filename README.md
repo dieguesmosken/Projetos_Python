@@ -39,7 +39,7 @@
 * Aula 23 >> Dia 07/06
 * Aula 24 >> Dia 12/06
 * Aula 25 >> Dia 13/06
-> resolução dominó
+* > resolução dominó
 * Aula 26 >> Dia 14/06
 * Aula 27 >> Dia 15/06
 
