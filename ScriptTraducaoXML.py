@@ -4,7 +4,7 @@ import requests
 import os
 
 # Google Translate API key
-api_key = 'AIzaSyAn43-htRSUgkX3DYafkFr8lknE5xjo924'
+api_key = 'Sua Google Translate API key vai aqui'
 
 # Função de tradução
 def traduzir_texto(text, source_lang, target_lang, api_key):
