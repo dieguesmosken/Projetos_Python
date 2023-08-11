@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+from config import TOKEN_TEUZ
 
 intents = discord.Intents.default()
 intents.members = True
@@ -9,8 +10,12 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 message = "DSM Fatec Registro"
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Game(name=message))
-    
+    #await bot.change_presence(activity=discord.Game(name=message)) #padrão
+    #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.streaming, name='Programando')) #stremando
+    #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='Música test')) #ouvindo
+    #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='Filmes')) #assistindo
+    await bot.change_presence(activity=discord.Streaming(name='Live Codificação', url='https://www.twitch.tv/teuzinytbr')) #transmitindo
+
     print('teuz bot está pronto!')
     print("-="*10)
     print("escrito por @dieguesmosken")
@@ -34,5 +39,4 @@ async def greet(ctx):
 async def clear(ctx, amount: int = 5):
     await ctx.channel.purge(limit=amount + 1)
 
-bot.run('MTEzOTYwOTAzMjA5NzgwNDM4OQ.GB0Mgk.yuSx3CCsEyzK8fqRx6LAjeWeNWPwlhZEZrVjYg')
-# MTEzOTYwOTAzMjA5NzgwNDM4OQ.GB0Mgk.yuSx3CCsEyzK8fqRx6LAjeWeNWPwlhZEZrVjYg
+bot.run(TOKEN_TEUZ)
