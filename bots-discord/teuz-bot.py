@@ -6,13 +6,15 @@ intents.members = True
 intents.messages = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
-
+message = "DSM Fatec Registro"
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Game(name="Estudando na Fatec Registro"))
+    await bot.change_presence(activity=discord.Game(name=message))
+    
     print('teuz bot está pronto!')
     print("-="*10)
     print("escrito por @dieguesmosken")
+    print(f"jogo alterado para {message} !")
 
 @bot.command()
 async def add_role(ctx, member: discord.Member, role: discord.Role):
@@ -32,4 +34,5 @@ async def greet(ctx):
 async def clear(ctx, amount: int = 5):
     await ctx.channel.purge(limit=amount + 1)
 
-bot.run('MTEzOTYwOTAzMjA5NzgwNDM4OQ.G-Wnpo.qqAsiTYV1ppk5VOys0qUUWXbN1Vyj3dZXTFG_4')
+bot.run('MTEzOTYwOTAzMjA5NzgwNDM4OQ.GB0Mgk.yuSx3CCsEyzK8fqRx6LAjeWeNWPwlhZEZrVjYg')
+# MTEzOTYwOTAzMjA5NzgwNDM4OQ.GB0Mgk.yuSx3CCsEyzK8fqRx6LAjeWeNWPwlhZEZrVjYg
