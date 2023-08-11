@@ -9,7 +9,8 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
-    print('teuz bot esta pronto!')
+    await bot.change_presence(activity=discord.Game(name="Estudando na Fatec Registro"))
+    print('teuz bot está pronto!')
     print("-="*10)
     print("escrito por @dieguesmosken")
 
@@ -31,4 +32,4 @@ async def greet(ctx):
 async def clear(ctx, amount: int = 5):
     await ctx.channel.purge(limit=amount + 1)
 
-bot.run('MTEzOTYwOTAzMjA5NzgwNDM4OQ.GTpEqf.67NZa7mmqLGMB1wcv8fY9Qa8G2xhW98WJLF1AE')
+bot.run('MTEzOTYwOTAzMjA5NzgwNDM4OQ.G-Wnpo.qqAsiTYV1ppk5VOys0qUUWXbN1Vyj3dZXTFG_4')
