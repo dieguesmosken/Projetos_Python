@@ -5,7 +5,7 @@ bot = commands.Bot(command_prefix='!')
 
 @bot.event
 async def on_ready():
-    print('Bot is ready.')
+    print('Teuz Bot is ready.')
 
 @bot.command()
 async def add_role(ctx, member: discord.Member, role: discord.Role):
