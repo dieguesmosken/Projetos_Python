@@ -14,7 +14,7 @@ async def on_ready():
     #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.streaming, name='Programando')) #stremando
     #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name='Música test')) #ouvindo
     #await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name='Filmes')) #assistindo
-    await bot.change_presence(activity=discord.Streaming(name='Live Codificação', url='https://www.twitch.tv/teuzinytbr')) #transmitindo
+    await bot.change_presence(activity=discord.Streaming(name=message, url='https://github.com/dieguesmosken')) #transmitindo
     #await bot.change_presence()
 
     print('teuz bot está pronto!')
