@@ -1,0 +1,7 @@
+2025-04-12 18:45:47,802 - INFO - Creating default configuration file
+2025-04-12 18:45:47,803 - INFO - Default configuration created at backup_config.ini
+2025-04-12 18:45:47,803 - INFO - Please edit the configuration file with your server details and run again.
+2025-04-12 18:50:44,306 - INFO - Aplicação iniciada. Configure os parâmetros e clique em 'Salvar Configurações'.
+2025-04-12 18:51:01,761 - INFO - Iniciando agendamento de backups
+2025-04-12 18:51:01,778 - ERROR - Caminho do mundo não encontrado: C:\Minecraft\BedrockServer\worlds\Bedrock level
+2025-04-12 18:51:01,798 - INFO - Próximo backup agendado para: 13/04/2025 18:51:01
