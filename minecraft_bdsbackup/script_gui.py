@@ -10,6 +10,7 @@ import zipfile
 import shutil
 import time
 import logging
+import tempfile
 
 # Configuração do logging
 logging.basicConfig(
@@ -24,8 +25,8 @@ logging.basicConfig(
 class MinecraftBackupGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Minecraft Bedrock Server Backup")
-        self.root.geometry("600x500")
+        self.root.title("Minecraft Bedrock Server Backup & Update")
+        self.root.geometry("700x800")
         self.root.resizable(True, True)
         
         # Variáveis para armazenar configurações
@@ -34,6 +35,7 @@ class MinecraftBackupGUI:
         self.max_backups_var = tk.StringVar(value="5")
         self.backup_interval_var = tk.StringVar(value="24")
         self.world_name_var = tk.StringVar(value="Bedrock level")
+        self.update_zip_var = tk.StringVar()
         
         # Variável para controlar o agendamento
         self.schedule_running = False
@@ -86,11 +88,56 @@ class MinecraftBackupGUI:
         title_style.configure("Title.TLabel", font=("Arial", 14, "bold"))
         
         # Título
-        title_label = ttk.Label(main_frame, text="Configuração de Backup - Minecraft Bedrock Server", style="Title.TLabel")
+        title_label = ttk.Label(main_frame, text="Configuração de Backup & Atualização - Minecraft Bedrock Server", style="Title.TLabel")
         title_label.pack(pady=(0, 20))
         
+        # Notebook (abas)
+        notebook = ttk.Notebook(main_frame)
+        notebook.pack(fill=tk.BOTH, expand=True, pady=10)
+        
+        # Aba de Backup
+        backup_tab = ttk.Frame(notebook, padding=10)
+        notebook.add(backup_tab, text="Backup")
+        
+        # Aba de Atualização
+        update_tab = ttk.Frame(notebook, padding=10)
+        notebook.add(update_tab, text="Atualização")
+        
+        # Configurar aba de Backup
+        self.setup_backup_tab(backup_tab)
+        
+        # Configurar aba de Atualização
+        self.setup_update_tab(update_tab)
+        
+        # Status bar
+        self.status_var = tk.StringVar(value="Pronto")
+        status_bar = ttk.Label(main_frame, textvariable=self.status_var, relief=tk.SUNKEN, anchor=tk.W)
+        status_bar.pack(fill=tk.X, side=tk.BOTTOM, pady=(10, 0))
+        
+        # Log frame
+        log_frame = ttk.LabelFrame(main_frame, text="Log", padding="10")
+        log_frame.pack(fill=tk.BOTH, expand=True, pady=10)
+        
+        # Text widget para log
+        self.log_text = tk.Text(log_frame, height=8, width=70, wrap=tk.WORD)
+        self.log_text.pack(fill=tk.BOTH, expand=True, side=tk.LEFT)
+        
+        # Scrollbar para o log
+        scrollbar = ttk.Scrollbar(log_frame, orient="vertical", command=self.log_text.yview)
+        scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        self.log_text.configure(yscrollcommand=scrollbar.set)
+        
+        # Configurar handler para redirecionar logs para o widget de texto
+        self.text_handler = TextHandler(self.log_text)
+        logging.getLogger().addHandler(self.text_handler)
+        
+        # Adicionar log inicial
+        logging.info("Aplicação iniciada. Configure os parâmetros e clique em 'Salvar Configurações'.")
+    
+    def setup_backup_tab(self, parent):
+        """Configura a aba de backup"""
         # Frame para configurações
-        config_frame = ttk.LabelFrame(main_frame, text="Configurações", padding="10")
+        config_frame = ttk.LabelFrame(parent, text="Configurações de Backup", padding="10")
         config_frame.pack(fill=tk.BOTH, expand=True, pady=10)
         
         # Grid para organizar os campos
@@ -124,7 +171,7 @@ class MinecraftBackupGUI:
         interval_spin.grid(row=4, column=1, sticky=tk.W, padx=5, pady=5)
         
         # Frame para botões
-        button_frame = ttk.Frame(main_frame)
+        button_frame = ttk.Frame(parent)
         button_frame.pack(fill=tk.X, pady=20)
         
         # Botões
@@ -133,31 +180,54 @@ class MinecraftBackupGUI:
         
         self.schedule_button = ttk.Button(button_frame, text="Iniciar Agendamento", command=self.toggle_schedule)
         self.schedule_button.pack(side=tk.LEFT, padx=5)
+    
+    def setup_update_tab(self, parent):
+        """Configura a aba de atualização"""
+        # Frame para configurações de atualização
+        update_frame = ttk.LabelFrame(parent, text="Atualização do Servidor", padding="10")
+        update_frame.pack(fill=tk.BOTH, expand=True, pady=10)
         
-        # Status bar
-        self.status_var = tk.StringVar(value="Pronto")
-        status_bar = ttk.Label(main_frame, textvariable=self.status_var, relief=tk.SUNKEN, anchor=tk.W)
-        status_bar.pack(fill=tk.X, side=tk.BOTTOM, pady=(10, 0))
+        # Grid para organizar os campos
+        update_frame.columnconfigure(1, weight=1)
         
-        # Log frame
-        log_frame = ttk.LabelFrame(main_frame, text="Log", padding="10")
-        log_frame.pack(fill=tk.BOTH, expand=True, pady=10)
+        # Informações sobre a atualização
+        info_text = (
+            "Esta função permite atualizar o servidor Minecraft Bedrock para uma nova versão.\n\n"
+            "Arquivos e pastas preservados durante a atualização:\n"
+            "- allowlist.json\n"
+            "- server.properties\n"
+            "- pasta behaviour_packs\n"
+            "- pasta resource_packs\n"
+            "- pasta worlds\n\n"
+            "Todos os outros arquivos serão substituídos pela nova versão."
+        )
+        info_label = ttk.Label(update_frame, text=info_text, wraplength=500, justify="left")
+        info_label.grid(row=0, column=0, columnspan=3, sticky=(tk.W, tk.E), padx=5, pady=10)
         
-        # Text widget para log
-        self.log_text = tk.Text(log_frame, height=8, width=70, wrap=tk.WORD)
-        self.log_text.pack(fill=tk.BOTH, expand=True, side=tk.LEFT)
+        # Separador
+        separator = ttk.Separator(update_frame, orient="horizontal")
+        separator.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
         
-        # Scrollbar para o log
-        scrollbar = ttk.Scrollbar(log_frame, orient="vertical", command=self.log_text.yview)
-        scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
-        self.log_text.configure(yscrollcommand=scrollbar.set)
+        # Caminho do servidor (mesmo da aba de backup)
+        ttk.Label(update_frame, text="Pasta do Servidor:").grid(row=2, column=0, sticky=tk.W, pady=5)
+        server_entry = ttk.Entry(update_frame, textvariable=self.server_path_var, width=50)
+        server_entry.grid(row=2, column=1, sticky=(tk.W, tk.E), padx=5, pady=5)
+        ttk.Button(update_frame, text="Procurar", command=self.browse_server_path).grid(row=2, column=2, padx=5, pady=5)
         
-        # Configurar handler para redirecionar logs para o widget de texto
-        self.text_handler = TextHandler(self.log_text)
-        logging.getLogger().addHandler(self.text_handler)
+        # Arquivo ZIP de atualização
+        ttk.Label(update_frame, text="Arquivo ZIP da Nova Versão:").grid(row=3, column=0, sticky=tk.W, pady=5)
+        update_entry = ttk.Entry(update_frame, textvariable=self.update_zip_var, width=50)
+        update_entry.grid(row=3, column=1, sticky=(tk.W, tk.E), padx=5, pady=5)
+        ttk.Button(update_frame, text="Procurar", command=self.browse_update_zip).grid(row=3, column=2, padx=5, pady=5)
         
-        # Adicionar log inicial
-        logging.info("Aplicação iniciada. Configure os parâmetros e clique em 'Salvar Configurações'.")
+        # Botão de atualização
+        update_button = ttk.Button(update_frame, text="Atualizar Servidor", command=self.update_server)
+        update_button.grid(row=4, column=0, columnspan=3, pady=20)
+        
+        # Adicionar estilo ao botão de atualização para destacá-lo
+        style = ttk.Style()
+        style.configure("Accent.TButton", font=("Arial", 10, "bold"))
+        update_button.configure(style="Accent.TButton")
     
     def browse_server_path(self):
         """Abre diálogo para selecionar pasta do servidor"""
@@ -170,6 +240,15 @@ class MinecraftBackupGUI:
         path = filedialog.askdirectory(title="Selecione a pasta para salvar os backups")
         if path:
             self.backup_path_var.set(path)
+    
+    def browse_update_zip(self):
+        """Abre diálogo para selecionar arquivo ZIP de atualização"""
+        path = filedialog.askopenfilename(
+            title="Selecione o arquivo ZIP da nova versão",
+            filetypes=[("Arquivos ZIP", "*.zip")]
+        )
+        if path:
+            self.update_zip_var.set(path)
     
     def run_backup(self):
         """Executa o backup manualmente"""
@@ -228,6 +307,24 @@ class MinecraftBackupGUI:
         
         # Criar pasta de backup se não existir
         os.makedirs(backup_path, exist_ok=True)
+        
+        return True
+    
+    def validate_update_paths(self):
+        """Valida os caminhos para atualização"""
+        server_path = self.server_path_var.get()
+        if not server_path or not os.path.exists(server_path):
+            messagebox.showerror("Erro", "Caminho do servidor inválido ou não existe!")
+            return False
+        
+        update_zip = self.update_zip_var.get()
+        if not update_zip or not os.path.exists(update_zip):
+            messagebox.showerror("Erro", "Arquivo ZIP de atualização não encontrado!")
+            return False
+        
+        if not update_zip.lower().endswith('.zip'):
+            messagebox.showerror("Erro", "O arquivo selecionado não é um arquivo ZIP!")
+            return False
         
         return True
     
@@ -335,6 +432,128 @@ class MinecraftBackupGUI:
                 if not self.schedule_running:
                     break
                 time.sleep(1)
+    
+    def update_server(self):
+        """Atualiza o servidor para uma nova versão"""
+        if not self.validate_update_paths():
+            return
+        
+        # Confirmar com o usuário
+        if not messagebox.askyesno("Confirmar Atualização", 
+                                  "Isso irá atualizar o servidor para uma nova versão.\n\n"
+                                  "Recomendamos fazer um backup completo antes de continuar.\n\n"
+                                  "Deseja continuar com a atualização?"):
+            return
+        
+        self.status_var.set("Atualizando servidor...")
+        self.root.update_idletasks()
+        
+        # Executar atualização em uma thread separada
+        threading.Thread(target=self._do_update, daemon=True).start()
+    
+    def _do_update(self):
+        """Função que realiza a atualização em uma thread separada"""
+        try:
+            server_path = self.server_path_var.get()
+            update_zip = self.update_zip_var.get()
+            
+            # Fazer backup antes da atualização
+            logging.info("Criando backup antes da atualização...")
+            self.create_backup()
+            
+            # Arquivos e pastas a preservar
+            preserve_files = ['allowlist.json', 'server.properties']
+            preserve_folders = ['behaviour_packs', 'resource_packs', 'worlds']
+            
+            # Criar pasta temporária para extração
+            with tempfile.TemporaryDirectory() as temp_dir:
+                logging.info(f"Extraindo arquivo de atualização para {temp_dir}...")
+                
+                # Extrair ZIP de atualização
+                with zipfile.ZipFile(update_zip, 'r') as zip_ref:
+                    zip_ref.extractall(temp_dir)
+                
+                # Verificar se a estrutura do ZIP é válida (deve conter arquivos de servidor)
+                if not os.path.exists(os.path.join(temp_dir, 'bedrock_server.exe')) and \
+                   not os.path.exists(os.path.join(temp_dir, 'bedrock_server')):
+                    logging.error("O arquivo ZIP não parece conter uma versão válida do servidor Minecraft Bedrock")
+                    self.status_var.set("Erro: ZIP de atualização inválido")
+                    return
+                
+                # Backup dos arquivos a preservar
+                preserved_data = {}
+                
+                # Preservar arquivos individuais
+                for file in preserve_files:
+                    file_path = os.path.join(server_path, file)
+                    if os.path.exists(file_path):
+                        with open(file_path, 'rb') as f:
+                            preserved_data[file] = f.read()
+                        logging.info(f"Preservado arquivo: {file}")
+                
+                # Criar pasta temporária para pastas preservadas
+                preserved_folders_temp = os.path.join(temp_dir, '_preserved_folders')
+                os.makedirs(preserved_folders_temp, exist_ok=True)
+                
+                # Preservar pastas
+                for folder in preserve_folders:
+                    folder_path = os.path.join(server_path, folder)
+                    if os.path.exists(folder_path):
+                        dest_path = os.path.join(preserved_folders_temp, folder)
+                        shutil.copytree(folder_path, dest_path)
+                        logging.info(f"Preservada pasta: {folder}")
+                
+                # Remover arquivos antigos do servidor (exceto pastas preservadas)
+                logging.info("Removendo arquivos antigos do servidor...")
+                for item in os.listdir(server_path):
+                    item_path = os.path.join(server_path, item)
+                    if item not in preserve_folders:  # Não remover pastas preservadas
+                        if os.path.isdir(item_path):
+                            shutil.rmtree(item_path)
+                        else:
+                            os.remove(item_path)
+                
+                # Copiar arquivos da nova versão
+                logging.info("Copiando arquivos da nova versão...")
+                for item in os.listdir(temp_dir):
+                    if item != '_preserved_folders':  # Não copiar nossa pasta temporária
+                        item_path = os.path.join(temp_dir, item)
+                        dest_path = os.path.join(server_path, item)
+                        
+                        if os.path.isdir(item_path):
+                            # Não sobrescrever pastas preservadas
+                            if item not in preserve_folders:
+                                if os.path.exists(dest_path):
+                                    shutil.rmtree(dest_path)
+                                shutil.copytree(item_path, dest_path)
+                        else:
+                            shutil.copy2(item_path, dest_path)
+                
+                # Restaurar arquivos preservados
+                logging.info("Restaurando arquivos preservados...")
+                for file, content in preserved_data.items():
+                    with open(os.path.join(server_path, file), 'wb') as f:
+                        f.write(content)
+                
+                # Restaurar pastas preservadas
+                for folder in preserve_folders:
+                    src_path = os.path.join(preserved_folders_temp, folder)
+                    dest_path = os.path.join(server_path, folder)
+                    
+                    if os.path.exists(src_path):
+                        if os.path.exists(dest_path):
+                            shutil.rmtree(dest_path)
+                        shutil.copytree(src_path, dest_path)
+            
+            logging.info("Atualização concluída com sucesso!")
+            self.status_var.set("Atualização concluída com sucesso!")
+            messagebox.showinfo("Sucesso", "O servidor foi atualizado com sucesso para a nova versão!")
+            
+        except Exception as e:
+            error_msg = f"Erro durante a atualização: {str(e)}"
+            logging.error(error_msg)
+            self.status_var.set("Erro durante a atualização")
+            messagebox.showerror("Erro", error_msg)
 
 
 class TextHandler(logging.Handler):
